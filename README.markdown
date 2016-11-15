@@ -1,4 +1,4 @@
-# 用於基於 Linux 之作業系統的金萱字型安裝教學
+# 金萱字型安裝教學（Linux 版本）
 <https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial>  
 本作品為模仿 justfont 《[金萱字型安裝教學（Windows/Mac版本）](https://www.facebook.com/groups/howsurfontgoing/permalink/1173804559376487/)》所製之適用於 Linux 作業系統的非官方安裝教學文件  
 ![專案標誌](資源/專案標誌.svg.png)
