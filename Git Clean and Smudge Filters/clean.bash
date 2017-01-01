@@ -42,6 +42,7 @@ main() {
 		 /office:document/office:meta/dc:date |
 		 /office:document/office:styles/style:default-style |
 		 /office:document/office:font-face-decls/style:font-face[@style:font-family-generic='system']" |\
+		 xmlstarlet transform "$PROGRAM_DIRECTORY"/remove-xml-id-attributes.xslt |\
 		 xmlstarlet format --indent-tab
 	exit 0
 }

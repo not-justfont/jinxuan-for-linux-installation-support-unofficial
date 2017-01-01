@@ -18,7 +18,7 @@
 	</office:meta>
 	<office:scripts>
 		<office:script script:language="ooo:Basic">
-			<ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<ooo:libraries>
 				<ooo:library-embedded ooo:name="Standard"/>
 			</ooo:libraries>
 		</office:script>
@@ -1329,7 +1329,7 @@
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
-			<text:list xml:id="list4914053810400696909" text:style-name="L1">
+			<text:list text:style-name="L1">
 				<text:list-header>
 					<text:p text:style-name="P79">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
 					<text:p text:style-name="P80">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
@@ -1374,7 +1374,7 @@
 				<text:span text:style-name="T30">）</text:span>
 			</text:p>
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
-			<text:list xml:id="list7187603265433714577" text:style-name="L2">
+			<text:list text:style-name="L2">
 				<text:list-item>
 					<text:p text:style-name="P81">
 						<text:span text:style-name="T40">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/></text:span>
@@ -1384,7 +1384,7 @@
 					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:list xml:id="list4896432857182230917" text:style-name="L3">
+			<text:list text:style-name="L3">
 				<text:list-item>
 					<text:p text:style-name="P82">
 						<text:span text:style-name="T40">Fonts – ArchWiki<text:line-break/></text:span>
