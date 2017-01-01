@@ -42,7 +42,7 @@ main() {
 		| /office:document/office:meta/dc:date
 		| /office:document/office:styles/style:default-style
 		| /office:document/office:font-face-decls/style:font-face[@style:font-family-generic='system']"\
-		| xmlstarlet format --indent-tab # 因為參數清單就是單一檔案名稱所以直接把他當作單一檔案名稱來使用
+		| xmlstarlet format --indent-tab
 	exit 0
 }
 main
