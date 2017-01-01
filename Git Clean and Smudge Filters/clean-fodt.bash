@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # 上列為宣告執行 script 程式用的殼程式(shell)的 shebang
-# clean.bash - Clean filter
+# clean-fodt.bash - Clean filter for Flat ODT
 # 林博仁 © 2016
 
 ######## File scope variable definitions ########
