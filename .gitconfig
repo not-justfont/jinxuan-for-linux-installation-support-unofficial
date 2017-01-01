@@ -1,2 +1,2 @@
 [filter "clean-fodt"]
-	clean =  \"Git Clean and Smudge Filters/clean-fodt.bash\" %f
+	clean =  \"Git Clean and Smudge Filters/clean-fodt.bash\"
