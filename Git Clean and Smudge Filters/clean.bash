@@ -34,15 +34,15 @@ set -o pipefail
 main() {
 	printf "Clean 過濾器：正在移除非必要資訊跟美化 XML 標記代碼……\n" 1>&2
 	xmlstarlet edit --pf --ps --delete \
-		"/office:document/office:settings
-		| /office:document/office:meta/meta:generator
-		| /office:document/office:meta/meta:editing-cycles
-		| /office:document/office:meta/meta:editing-duration
-		| /office:document/office:meta/meta:document-statistic
-		| /office:document/office:meta/dc:date
-		| /office:document/office:styles/style:default-style
-		| /office:document/office:font-face-decls/style:font-face[@style:font-family-generic='system']"\
-		| xmlstarlet format --indent-tab
+		"/office:document/office:settings |
+		 /office:document/office:meta/meta:generator |
+		 /office:document/office:meta/meta:editing-cycles |
+		 /office:document/office:meta/meta:editing-duration |
+		 /office:document/office:meta/meta:document-statistic |
+		 /office:document/office:meta/dc:date |
+		 /office:document/office:styles/style:default-style |
+		 /office:document/office:font-face-decls/style:font-face[@style:font-family-generic='system']" |\
+		 xmlstarlet format --indent-tab
 	exit 0
 }
 main
