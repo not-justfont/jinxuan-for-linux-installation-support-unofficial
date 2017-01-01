@@ -1061,6 +1061,9 @@
 		<style:style style:name="T43" style:family="text">
 			<style:text-properties fo:color="#ff3333" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
+		<style:style style:name="T44" style:family="text">
+			<style:text-properties officeooo:rsid="0015becd"/>
+		</style:style>
 		<style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(4.045cm, 0cm, 2.967cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
@@ -1331,7 +1334,7 @@
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
-			<text:list xml:id="list14206207523601189" text:style-name="L1">
+			<text:list xml:id="list4410374624535197217" text:style-name="L1">
 				<text:list-header>
 					<text:p text:style-name="P72">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
 					<text:p text:style-name="P73">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
@@ -1376,7 +1379,7 @@
 				<text:span text:style-name="T31">）</text:span>
 			</text:p>
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
-			<text:list xml:id="list6507090137583130469" text:style-name="L2">
+			<text:list xml:id="list8831238168030741990" text:style-name="L2">
 				<text:list-item>
 					<text:p text:style-name="P74">
 						<text:span text:style-name="T41">金萱字型 Linux 系統非官方安裝支援的議題追蹤系統（需登入 GitHub 帳號方可使用）<text:line-break/></text:span>
@@ -1386,7 +1389,7 @@
 					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:list xml:id="list3716793439447571594" text:style-name="L3">
+			<text:list xml:id="list1626455754832525667" text:style-name="L3">
 				<text:list-item>
 					<text:p text:style-name="P75">
 						<text:span text:style-name="T41">Fonts – ArchWiki<text:line-break/></text:span>
@@ -1396,7 +1399,7 @@
 					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:h text:style-name="P23" text:outline-level="1">遇到Linux支援以外的問題時<text:span text:style-name="T40">才該用的</text:span><text:line-break/>justfont的聯絡方式</text:h>
+			<text:h text:style-name="P23" text:outline-level="1">Linux支援以外的金萱問題<text:line-break/>請找<text:span text:style-name="T44">justfont</text:span></text:h>
 			<text:p text:style-name="P14">公司電話：+886-2-2753-2680<text:line-break/>e-mail：<text:a xlink:type="simple" xlink:href="mailto:just+support@justfont.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">just+support@justfont.com</text:a></text:p>
 		</office:text>
 	</office:body>
