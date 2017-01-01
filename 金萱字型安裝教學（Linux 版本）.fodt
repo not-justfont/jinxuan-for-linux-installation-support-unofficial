@@ -33,8 +33,6 @@
 		<style:font-face style:name="Noto Sans CJK TC Regular" svg:font-family="'Noto Sans CJK TC Regular'" style:font-adornments="斜體" style:font-pitch="variable"/>
 		<style:font-face style:name="jf金萱鮮摘2.1" svg:font-family="jf金萱鮮摘2.1" style:font-adornments="半糖" style:font-pitch="variable"/>
 		<style:font-face style:name="Liberation Serif" svg:font-family="'Liberation Serif'" style:font-family-generic="roman" style:font-pitch="variable"/>
-		<style:font-face style:name="AR PL UMing TW" svg:font-family="'AR PL UMing TW'" style:font-family-generic="system" style:font-pitch="variable"/>
-		<style:font-face style:name="jf金萱鮮摘2.11" svg:font-family="jf金萱鮮摘2.1" style:font-family-generic="system" style:font-pitch="variable"/>
 	</office:font-face-decls>
 	<office:styles>
 		<style:style style:name="Standard" style:family="paragraph" style:class="text">
