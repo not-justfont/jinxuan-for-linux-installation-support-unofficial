@@ -31,11 +31,10 @@
 		<style:font-face style:name="Droid Sans Mono1" svg:font-family="'Droid Sans Mono'" style:font-family-generic="swiss" style:font-pitch="fixed"/>
 		<style:font-face style:name="Droid Sans Mono" svg:font-family="'Droid Sans Mono'" style:font-adornments="標準" style:font-family-generic="swiss" style:font-pitch="fixed"/>
 		<style:font-face style:name="Noto Sans CJK TC Regular" svg:font-family="'Noto Sans CJK TC Regular'" style:font-adornments="斜體" style:font-pitch="variable"/>
-		<style:font-face style:name="jf金萱鮮摘2.0" svg:font-family="jf金萱鮮摘2.0" style:font-adornments="半糖" style:font-pitch="variable"/>
 		<style:font-face style:name="jf金萱鮮摘2.1" svg:font-family="jf金萱鮮摘2.1" style:font-adornments="半糖" style:font-pitch="variable"/>
 		<style:font-face style:name="Liberation Serif" svg:font-family="'Liberation Serif'" style:font-family-generic="roman" style:font-pitch="variable"/>
-		<style:font-face style:name="DejaVu Sans" svg:font-family="'DejaVu Sans'" style:font-family-generic="system" style:font-pitch="variable"/>
-		<style:font-face style:name="Droid Sans Fallback" svg:font-family="'Droid Sans Fallback'" style:font-family-generic="system" style:font-pitch="variable"/>
+		<style:font-face style:name="AR PL UMing TW" svg:font-family="'AR PL UMing TW'" style:font-family-generic="system" style:font-pitch="variable"/>
+		<style:font-face style:name="jf金萱鮮摘2.11" svg:font-family="jf金萱鮮摘2.1" style:font-family-generic="system" style:font-pitch="variable"/>
 	</office:font-face-decls>
 	<office:styles>
 		<style:style style:name="Standard" style:family="paragraph" style:class="text">
@@ -48,7 +47,7 @@
 		</style:style>
 		<style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" style:page-number="auto" style:writing-mode="page"/>
-			<style:text-properties style:font-name="jf金萱鮮摘2.0" fo:font-family="jf金萱鮮摘2.0" style:font-style-name="半糖" style:font-pitch="variable" fo:font-size="24pt" fo:font-weight="normal" officeooo:rsid="00864650" style:font-name-asian="jf金萱鮮摘2.0" style:font-family-asian="jf金萱鮮摘2.0" style:font-style-name-asian="半糖" style:font-pitch-asian="variable" style:font-size-asian="24pt" style:font-weight-asian="normal" style:font-size-complex="24pt"/>
+			<style:text-properties fo:font-size="24pt" fo:font-weight="normal" officeooo:rsid="00864650" style:font-size-asian="24pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
 			<style:paragraph-properties fo:line-height="75%"/>
@@ -1334,7 +1333,7 @@
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
-			<text:list xml:id="list4491876902893061582" text:style-name="L1">
+			<text:list xml:id="list14206207523601189" text:style-name="L1">
 				<text:list-header>
 					<text:p text:style-name="P72">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
 					<text:p text:style-name="P73">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
@@ -1375,10 +1374,11 @@
 				<text:a xlink:type="simple" xlink:href="https://www.flyingv.cc/projects/8250" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">
 					<text:span text:style-name="T32">金萱，新時代中文字型，培育新鮮台灣文字風景 | flyingV</text:span>
 				</text:a>
+				<text:a xlink:type="simple" xlink:href="https://www.flyingv.cc/projects/8250" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"> </text:a>
 				<text:span text:style-name="T31">）</text:span>
 			</text:p>
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
-			<text:list xml:id="list3617840157555103926" text:style-name="L2">
+			<text:list xml:id="list6507090137583130469" text:style-name="L2">
 				<text:list-item>
 					<text:p text:style-name="P74">
 						<text:span text:style-name="T41">金萱字型 Linux 系統非官方安裝支援的議題追蹤系統（需登入 GitHub 帳號方可使用）<text:line-break/></text:span>
@@ -1388,7 +1388,7 @@
 					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:list xml:id="list6945458663840756636" text:style-name="L3">
+			<text:list xml:id="list3716793439447571594" text:style-name="L3">
 				<text:list-item>
 					<text:p text:style-name="P75">
 						<text:span text:style-name="T41">Fonts – ArchWiki<text:line-break/></text:span>
