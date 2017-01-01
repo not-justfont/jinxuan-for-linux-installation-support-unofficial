@@ -1,0 +1,3 @@
+[filter "clean"]
+	clean =  \"Git Clean and Smudge Filters/clean.bash\" %f
+
