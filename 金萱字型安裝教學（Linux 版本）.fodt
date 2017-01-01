@@ -953,9 +953,6 @@
 		<style:style style:name="T7" style:family="text">
 			<style:text-properties style:font-name="Noto Sans CJK TC Regular1" officeooo:rsid="0019e3d0" style:font-name-asian="Noto Sans CJK TC Regular1" style:font-name-complex="Noto Sans CJK TC Regular1"/>
 		</style:style>
-		<style:style style:name="T8" style:family="text">
-			<style:text-properties style:font-name="Noto Sans CJK TC Regular1" officeooo:rsid="001bb56f" style:font-name-asian="Noto Sans CJK TC Regular1" style:font-name-complex="Noto Sans CJK TC Regular1"/>
-		</style:style>
 		<style:style style:name="T9" style:family="text">
 			<style:text-properties officeooo:rsid="0010cdf7"/>
 		</style:style>
@@ -1291,9 +1288,7 @@
 				</draw:frame>
 			</text:p>
 			<text:p text:style-name="P43">
-				<text:span text:style-name="T7">Linux 作業系統核心標誌由Larry Ewing所作<text:line-break/>手搖杯圖</text:span>
-				<text:span text:style-name="T8">翻</text:span>
-				<text:span text:style-name="T7">攝自COMEBUY金萱現泡茶產品</text:span>
+				<text:span text:style-name="T7">Linux 作業系統核心標誌由Larry Ewing所作<text:line-break/>手搖杯圖翻攝自COMEBUY金萱現泡茶產品</text:span>
 			</text:p>
 			<text:p text:style-name="Title">Linux 版本</text:p>
 			<text:p text:style-name="P15">本作品並非由justfont所著，不代表justfont立場</text:p>
