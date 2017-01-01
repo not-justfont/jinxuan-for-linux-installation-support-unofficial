@@ -45,7 +45,7 @@
 		</style:style>
 		<style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" style:page-number="auto" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="24pt" fo:font-weight="normal" officeooo:rsid="00864650" style:font-size-asian="24pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+			<style:text-properties fo:font-weight="normal" officeooo:rsid="00864650" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
 			<style:paragraph-properties fo:line-height="75%"/>
@@ -73,8 +73,8 @@
 			<style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
 		</style:style>
 		<style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
-			<style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" style:page-number="auto" style:vertical-align="middle" style:writing-mode="page"/>
-			<style:text-properties fo:color="#98d000" fo:font-size="32pt" fo:font-weight="normal" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="130%" style:font-weight-complex="normal"/>
+			<style:paragraph-properties fo:margin-top="0.215cm" fo:margin-bottom="0.423cm" loext:contextual-spacing="false" style:page-number="auto" style:vertical-align="middle" style:writing-mode="page"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="40pt" fo:font-weight="normal" style:font-size-asian="40pt" style:font-weight-asian="normal" style:font-size-complex="130%" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="Signature" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
 			<style:paragraph-properties text:number-lines="false" text:line-number="0"/>
@@ -191,8 +191,52 @@
 		</style:style>
 		<style:style style:name="_300c_您需要先確認兩件事情_300d_說明文字" style:display-name="「您需要先確認兩件事情」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body" style:next-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
-			<style:paragraph-properties fo:margin-left="3cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" style:font-size-asian="18pt"/>
+			<style:paragraph-properties fo:margin-left="3cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" fo:font-weight="normal" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_金萱為您專屬現泡_300d_說明文字" style:display-name="「金萱為您專屬現泡」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:paragraph-properties fo:line-height="150%" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="28pt" fo:font-weight="normal" style:font-size-asian="28pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_您需要先確認兩件事情_300d_子標題" style:display-name="「您需要先確認兩件事情」子標題" style:family="paragraph" style:parent-style-name="Heading_20_1" style:default-outline-level="" style:list-style-name="" style:master-page-name="">
+			<loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="20pt" fo:font-weight="normal" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_您需要先確認兩件事情_300d_忘記電子郵件地址說明文字" style:display-name="「您需要先確認兩件事情」忘記電子郵件地址說明文字" style:family="paragraph" style:parent-style-name="_300c_您需要先確認兩件事情_300d_說明文字">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+			<style:text-properties fo:color="#98d000" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_使用紀念光碟_300d_說明文字" style:display-name="「使用紀念光碟」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+			<style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="20pt" fo:font-weight="normal" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_透過網路雲端下載_300d_說明文字" style:display-name="「透過網路雲端下載」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:paragraph-properties fo:margin-left="0.741cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="24pt" fo:font-weight="normal" style:font-size-asian="24pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_透過網路雲端下載_300d_justfont_20_store_20_連結" style:display-name="「透過網路雲端下載」justfont store 連結" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_說明文字">
+			<style:paragraph-properties style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" fo:font-weight="normal" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:display-name="「〈系統〉安裝字型流程」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="20pt" fo:font-weight="normal" officeooo:rsid="00c69374" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-size-complex="18pt" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_問題排解_300d_說明文字" style:display-name="「問題排解」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cd53e7" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:display-name="「建議求助／自助管道」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" fo:font-weight="normal" style:font-size-asian="18pt" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+		</style:style>
+		<style:style style:name="_300c_justfont_20_連繫方式_300d_說明文字" style:display-name="「justfont 連繫方式」說明文字" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:paragraph-properties fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="20pt" fo:font-weight="normal" officeooo:rsid="00d06ffb" style:font-size-asian="20pt" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="Rubies" style:family="text">
 			<style:text-properties fo:font-size="6pt" style:text-underline-style="none" style:font-size-asian="6pt" style:font-size-complex="6pt" style:text-emphasize="none"/>
@@ -216,6 +260,12 @@
 		<style:style style:name="無題1" style:family="graphic" style:parent-style-name="Formula"/>
 		<style:style style:name="Formula" style:family="graphic">
 			<style:graphic-properties text:anchor-type="as-char" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" style:vertical-pos="middle" style:vertical-rel="text"/>
+		</style:style>
+		<style:style style:name="_300c_您需要先確認兩件事情_300d_項目圖片" style:display-name="「您需要先確認兩件事情」項目圖片" style:family="graphic" style:parent-style-name="Graphics">
+			<style:graphic-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm"/>
+		</style:style>
+		<style:style style:name="_300c_第1級標題_300d_項目圖片" style:display-name="「第1級標題」項目圖片" style:family="graphic" style:parent-style-name="Graphics">
+			<style:graphic-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm"/>
 		</style:style>
 		<text:outline-style style:name="Outline">
 			<text:outline-level-style text:level="1" style:num-format="">
@@ -873,65 +923,52 @@
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
 		</style:style>
-		<style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c63162" officeooo:paragraph-rsid="00c63162" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+		</style:style>
+		<style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
 			<style:text-properties officeooo:rsid="00c53a90" officeooo:paragraph-rsid="00c53a90"/>
 		</style:style>
-		<style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_1">
-			<style:paragraph-properties fo:break-before="page"/>
-		</style:style>
-		<style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-		</style:style>
-		<style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-			<style:text-properties officeooo:paragraph-rsid="00c63162"/>
-		</style:style>
 		<style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_1">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-			<style:text-properties officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374"/>
+			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
 		<style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
-			<style:text-properties officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb"/>
 		</style:style>
-		<style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1" style:master-page-name="">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		<style:style style:name="P79" style:family="paragraph" style:parent-style-name="Heading_20_1">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+			<style:text-properties officeooo:paragraph-rsid="00c63162"/>
 		</style:style>
-		<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1" style:master-page-name="">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Heading_20_1">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+			<style:text-properties officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374"/>
 		</style:style>
-		<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties officeooo:paragraph-rsid="00d06ffb"/>
+		<style:style style:name="P81" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_說明文字">
+			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
 		</style:style>
-		<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:background-color="transparent" style:writing-mode="page"/>
+		<style:style style:name="P82" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L1"/>
+		<style:style style:name="P83" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
+			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-		</style:style>
-		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
-			<style:text-properties officeooo:paragraph-rsid="0097f739"/>
-		</style:style>
-		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
-		</style:style>
-		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
 			<style:paragraph-properties style:page-number="1"/>
 		</style:style>
+		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L2"/>
+		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L3"/>
 		<style:style style:name="T1" style:family="text">
 			<style:text-properties officeooo:rsid="00cd53e7"/>
 		</style:style>
@@ -1061,19 +1098,43 @@
 		<style:style style:name="T43" style:family="text">
 			<style:text-properties officeooo:rsid="0015becd"/>
 		</style:style>
+		<style:style style:name="T44" style:family="text">
+			<style:text-properties fo:color="#98d000"/>
+		</style:style>
+		<style:style style:name="T45" style:family="text">
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="0098ff12" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="T46" style:family="text">
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00c53a90" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="T47" style:family="text">
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00cfe166" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
 		<style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(4.045cm, 0cm, 2.967cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
-		<style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
-			<style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		<style:style style:name="fr2" style:family="graphic" style:parent-style-name="_300c_第1級標題_300d_項目圖片">
+			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0.457cm, 0cm, 0.478cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
 		<style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
-		<style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
-			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		<style:style style:name="fr4" style:family="graphic" style:parent-style-name="_300c_您需要先確認兩件事情_300d_項目圖片">
+			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" draw:fill-image-width="0cm" draw:fill-image-height="0cm" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
-		<style:style style:name="fr5" style:family="graphic" style:parent-style-name="Graphics">
+		<style:style style:name="fr5" style:family="graphic" style:parent-style-name="_300c_您需要先確認兩件事情_300d_項目圖片">
+			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		</style:style>
+		<style:style style:name="fr6" style:family="graphic" style:parent-style-name="_300c_第1級標題_300d_項目圖片">
+			<style:graphic-properties style:vertical-pos="from-top" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		</style:style>
+		<style:style style:name="fr7" style:family="graphic" style:parent-style-name="_300c_第1級標題_300d_項目圖片">
+			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		</style:style>
+		<style:style style:name="fr8" style:family="graphic" style:parent-style-name="Graphics">
+			<style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+		</style:style>
+		<style:style style:name="fr9" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="top" style:vertical-rel="baseline" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0.049cm" fo:border="0.06pt solid #000000" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
 		</style:style>
 		<text:list-style style:name="L1">
@@ -1280,7 +1341,7 @@
 			<text:user-field-decls>
 				<text:user-field-decl office:value-type="string" office:string-value="Creative Commons BY-SA 4.0+" text:name="智慧財產授權條款"/>
 			</text:user-field-decls>
-			<text:p text:style-name="P86"/>
+			<text:p text:style-name="P84"/>
 			<text:p text:style-name="Title">金萱字型安裝教學</text:p>
 			<text:p text:style-name="P44">
 				<draw:frame draw:style-name="fr1" draw:name="影像1" text:anchor-type="as-char" svg:width="9.968cm" svg:height="10.772cm" draw:z-index="0">
@@ -1292,47 +1353,48 @@
 			</text:p>
 			<text:p text:style-name="Title">Linux 版本</text:p>
 			<text:p text:style-name="P15">本作品並非由justfont所著，不代表justfont立場</text:p>
-			<text:h text:style-name="P61" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1750_1985123062"/><draw:frame draw:style-name="fr2" draw:name="影像15" text:anchor-type="as-char" svg:y="-2.117cm" svg:width="2.947cm" svg:height="2.947cm" draw:z-index="12"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-VIP-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>金萱為您專屬現泡<text:bookmark-end text:name="__RefHeading__1750_1985123062"/></text:h>
-			<text:p text:style-name="P11">每位贊助<text:span text:style-name="T22">者的金萱字型檔都是獨一無二，裡面會附上您的大名，以銘謝您的支持。</text:span></text:p>
+			<text:h text:style-name="P61" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1750_1985123062"/><draw:frame draw:style-name="fr2" draw:name="影像15" text:anchor-type="as-char" svg:width="1.722cm" svg:height="2.252cm" draw:z-index="11"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-VIP-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>金萱為您專屬現泡<text:bookmark-end text:name="__RefHeading__1750_1985123062"/></text:h>
+			<text:p text:style-name="_300c_金萱為您專屬現泡_300d_說明文字">每位贊助<text:span text:style-name="T22">者的金萱字型檔都是獨一無二，<text:line-break/>裡面會附上您的大名，以銘謝您的支持。</text:span></text:p>
 			<text:p text:style-name="Text_20_body">
-				<draw:frame draw:style-name="fr3" draw:name="影像2" text:anchor-type="as-char" svg:width="19.076cm" svg:height="12.07cm" draw:z-index="1">
+				<draw:frame draw:style-name="fr3" draw:name="影像2" text:anchor-type="as-char" svg:width="18.168cm" svg:height="11.495cm" draw:z-index="1">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-metadata-credit-example.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P17" text:outline-level="1">您需要先確認兩件事情</text:h>
-			<text:h text:style-name="P70" text:outline-level="2"><text:span text:style-name="T23"><draw:frame draw:style-name="fr3" draw:name="影像3" text:anchor-type="as-char" svg:width="2.688cm" svg:height="2.542cm" draw:z-index="13"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-network-connection-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></text:span><text:span text:style-name="T23">已</text:span>連上網路的電腦</text:h>
+			<text:h text:style-name="_300c_您需要先確認兩件事情_300d_子標題" text:outline-level="1"><text:span text:style-name="T23"><draw:frame draw:style-name="fr4" draw:name="影像3" text:anchor-type="as-char" svg:width="2.688cm" svg:height="2.542cm" draw:z-index="12"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-network-connection-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></text:span><text:span text:style-name="T23">已</text:span>連上網路的電腦</text:h>
 			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">需連上justfont的網站<text:span text:style-name="T35">，</text:span>透過會員登入認證後<text:span text:style-name="T24">，</text:span><text:line-break/>即可下載金萱字型檔。</text:p>
-			<text:h text:style-name="P71" text:outline-level="2"><draw:frame draw:style-name="fr3" draw:name="影像4" text:anchor-type="as-char" svg:width="2.591cm" svg:height="2.565cm" draw:z-index="2"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-activation-email-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>認證Email</text:h>
+			<text:h text:style-name="_300c_您需要先確認兩件事情_300d_子標題" text:outline-level="1"><draw:frame draw:style-name="fr5" draw:name="影像4" text:anchor-type="as-char" svg:width="2.591cm" svg:height="2.565cm" draw:z-index="2"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-activation-email-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>認證Email</text:h>
 			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">以當初於FlyingV贊助金萱時所留下的Email<text:span text:style-name="T24">，</text:span><text:line-break/>進行個人身份的認證。</text:p>
-			<text:p text:style-name="P13">※若您忘記當初留的Email<text:span text:style-name="T24">，</text:span>或想更改您所使用的Email<text:span text:style-name="T24">，</text:span><text:line-break/>請透過本PDF最後一頁的聯絡方式與<text:span text:style-name="T34">justfont</text:span>聯絡<text:span text:style-name="T24">！</text:span></text:p>
-			<text:h text:style-name="P60" text:outline-level="1"><draw:frame draw:style-name="fr3" draw:name="影像5" text:anchor-type="as-char" svg:width="1.244cm" svg:height="1.279cm" draw:z-index="3"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cd-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>使用紀念光碟</text:h>
-			<text:p text:style-name="P12">將紀念光碟放入電腦開啟後，開啟「金萱線上安裝.html」</text:p>
-			<text:p text:style-name="P12">成功後將進入下一張的畫面。</text:p>
+			<text:p text:style-name="Text_20_body"/>
+			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_忘記電子郵件地址說明文字">※若您忘記當初留的Email，或想更改您所使用的Email，<text:line-break/>請透過本PDF最後一頁的聯絡方式與justfont聯絡！</text:p>
+			<text:h text:style-name="P60" text:outline-level="1"><draw:frame draw:style-name="fr6" draw:name="影像5" text:anchor-type="as-char" svg:y="-1.286cm" svg:width="1.508cm" svg:height="1.55cm" draw:z-index="3"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cd-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>使用紀念光碟</text:h>
+			<text:p text:style-name="_300c_使用紀念光碟_300d_說明文字">將紀念光碟放入電腦開啟後，開啟「金萱線上安裝.html」<text:line-break/>成功後將進入下一張的畫面。</text:p>
 			<text:p text:style-name="P12">
 				<draw:frame draw:style-name="fr3" draw:name="影像6" text:anchor-type="as-char" svg:width="15.459cm" svg:height="13.037cm" draw:z-index="4">
 					<draw:image xlink:href="./資源/金萱產品光碟檔案瀏覽器畫面截圖.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P21" text:outline-level="1">
-				<draw:frame draw:style-name="fr3" draw:name="影像7" text:anchor-type="as-char" svg:width="2.438cm" svg:height="1.7cm" draw:z-index="5">
+				<draw:frame draw:style-name="fr7" draw:name="影像7" text:anchor-type="as-char" svg:width="2.438cm" svg:height="1.7cm" draw:z-index="5">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cloud-download-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 				<text:span text:style-name="T25">透過網路雲端下載</text:span>
 			</text:h>
-			<text:p text:style-name="P57">直接登入justfont.store頁面後，點選字型檔下載。</text:p>
-			<text:p text:style-name="P58">
+			<text:p text:style-name="P81">直接登入justfont.store頁面後，點選字型檔下載。</text:p>
+			<text:p text:style-name="_300c_透過網路雲端下載_300d_justfont_20_store_20_連結">
 				<text:a xlink:type="simple" xlink:href="https://www.justfont.com/index/aboutstore/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.justfont.com/index/aboutstore/</text:a>
 			</text:p>
-			<text:p text:style-name="P59">
-				<draw:frame draw:style-name="fr3" draw:name="影像8" text:anchor-type="as-char" svg:width="17.498cm" svg:height="12.395cm" draw:z-index="6">
+			<text:p text:style-name="P73">
+				<draw:frame draw:style-name="fr8" draw:name="影像8" text:anchor-type="as-char" svg:y="-13.049cm" svg:width="18.422cm" svg:height="13.049cm" draw:z-index="6">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-justfont-store-page-screenshot.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
 			<text:list text:style-name="L1">
 				<text:list-header>
-					<text:p text:style-name="P79">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
-					<text:p text:style-name="P80">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
+					<text:p text:style-name="P82">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
+					<text:p text:style-name="P82">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
+					<text:p text:style-name="P82"/>
 				</text:list-header>
 			</text:list>
 			<text:p text:style-name="P48">
@@ -1340,28 +1402,28 @@
 					<draw:image xlink:href="./資源/下載下來的金萱字型檔案瀏覽器截圖.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:p text:style-name="P54">2. 點擊字型檔兩下後，會開啟並顯示字型預覽（如下圖）<text:line-break/>點<text:span text:style-name="T28">擊</text:span>「安裝」按鈕，即可完成安裝。</text:p>
+			<text:p text:style-name="P83">2. 點擊字型檔兩下後，會開啟並顯示字型預覽（如下圖）<text:line-break/>點<text:span text:style-name="T28">擊</text:span>「安裝」按鈕，即可完成安裝。</text:p>
 			<text:p text:style-name="P50">
 				<draw:frame draw:style-name="fr3" draw:name="影像10" text:anchor-type="as-char" svg:width="12.938cm" svg:height="5.422cm" draw:z-index="8">
 					<draw:image xlink:href="./資源/下載下來的字型的字型預覽視窗畫面.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:p text:style-name="P49">3. 若想確認是否有安裝成功，請至：<text:line-break/>※「附屬工具程式」→「字型檢視程式」</text:p>
+			<text:p text:style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">3. 若想確認是否有安裝成功，請至：<text:line-break/><text:span text:style-name="T44">※「附屬工具程式」→「字型檢視程式」</text:span></text:p>
 			<text:p text:style-name="P50">
-				<draw:frame draw:style-name="fr4" draw:name="影像11" text:anchor-type="paragraph" svg:width="15.884cm" svg:height="6.772cm" draw:z-index="9">
+				<draw:frame draw:style-name="fr3" draw:name="影像11" text:anchor-type="as-char" svg:width="15.884cm" svg:height="6.772cm" draw:z-index="14">
 					<draw:image xlink:href="./資源/ubuntu-font-viewer-traverse-instruction-in-unity-dash.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:p text:style-name="P55">4. 您可在<text:span text:style-name="T26">「字型檢視程式」應用軟體</text:span>中，確認是否有<text:span text:style-name="T27">jf金萱鮮摘 /</text:span> jf-jinxuan-fresh。</text:p>
+			<text:p text:style-name="P83">4. 您可在<text:span text:style-name="T26">「字型檢視程式」應用軟體</text:span>中，確認是否有<text:span text:style-name="T27">jf金萱鮮摘 /</text:span> jf-jinxuan-fresh。</text:p>
 			<text:p text:style-name="P51">
-				<draw:frame draw:style-name="fr3" draw:name="影像12" text:anchor-type="as-char" svg:width="18.68cm" svg:height="13.986cm" draw:z-index="10">
+				<draw:frame draw:style-name="fr3" draw:name="影像12" text:anchor-type="as-char" svg:width="18.68cm" svg:height="13.986cm" draw:z-index="9">
 					<draw:image xlink:href="./資源/ubuntu-font-viewer-all-fonts-view.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:h text:style-name="P20" text:outline-level="1"><draw:frame draw:style-name="fr3" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="14"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>問題排解</text:h>
-			<text:p text:style-name="P52">justfont<text:span text:style-name="T42">並不保證</text:span>金萱字型在Linux作業系統的使用<text:line-break/>若遇到安裝錯誤或還有其他使用問題，請<text:span text:style-name="T42">不要</text:span>與他們聯繫！</text:p>
+			<text:h text:style-name="P20" text:outline-level="1"><draw:frame draw:style-name="fr7" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="13"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>問題排解</text:h>
+			<text:p text:style-name="_300c_問題排解_300d_說明文字">justfont<text:span text:style-name="T42">並不保證</text:span>金萱字型在Linux作業系統的使用<text:line-break/>若遇到安裝錯誤或還有其他使用問題，請<text:span text:style-name="T42">不要</text:span>與他們聯繫！</text:p>
 			<text:p text:style-name="Illustration">
-				<draw:frame draw:style-name="fr5" draw:name="影像14" text:anchor-type="as-char" svg:width="6.837cm" svg:height="2.942cm" draw:z-index="11">
+				<draw:frame draw:style-name="fr9" draw:name="影像14" text:anchor-type="as-char" svg:width="6.837cm" svg:height="2.942cm" draw:z-index="10">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-fundraising-compaign-stating-not-support-linux-screenshot.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
@@ -1376,26 +1438,16 @@
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
 			<text:list text:style-name="L2">
 				<text:list-item>
-					<text:p text:style-name="P81">
-						<text:span text:style-name="T40">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/></text:span>
-						<text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">
-							<text:span text:style-name="T40">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:span>
-						</text:a>
-					</text:p>
+					<text:p text:style-name="P85">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/><text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:a></text:p>
 				</text:list-item>
 			</text:list>
 			<text:list text:style-name="L3">
 				<text:list-item>
-					<text:p text:style-name="P82">
-						<text:span text:style-name="T40">Fonts – ArchWiki<text:line-break/></text:span>
-						<text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">
-							<text:span text:style-name="T40">https://wiki.archlinux.org/index.php/Fonts</text:span>
-						</text:a>
-					</text:p>
+					<text:p text:style-name="P86">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
 				</text:list-item>
 			</text:list>
-			<text:h text:style-name="P23" text:outline-level="1">Linux支援以外的金萱問題<text:line-break/>請找<text:span text:style-name="T43">justfont</text:span></text:h>
-			<text:p text:style-name="P14">公司電話：+886-2-2753-2680<text:line-break/>e-mail：<text:a xlink:type="simple" xlink:href="mailto:just+support@justfont.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">just+support@justfont.com</text:a></text:p>
+			<text:h text:style-name="P20" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T43">justfont</text:span></text:h>
+			<text:p text:style-name="_300c_justfont_20_連繫方式_300d_說明文字">公司電話：+886-2-2753-2680<text:line-break/>e-mail：<text:a xlink:type="simple" xlink:href="mailto:just+support@justfont.com" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">just+support@justfont.com</text:a></text:p>
 		</office:text>
 	</office:body>
 </office:document>
