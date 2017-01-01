@@ -1306,12 +1306,12 @@
 			</text:p>
 			<text:h text:style-name="P17" text:outline-level="1">您需要先確認兩件事情</text:h>
 			<text:h text:style-name="P70" text:outline-level="2"><text:span text:style-name="T24"><draw:frame draw:style-name="fr3" draw:name="影像3" text:anchor-type="as-char" svg:width="2.688cm" svg:height="2.542cm" draw:z-index="13"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-network-connection-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></text:span><text:span text:style-name="T24">已</text:span>連上網路的電腦</text:h>
-			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">需連上 justfont 的網站<text:span text:style-name="T36">，</text:span>透過會員登入認證後<text:span text:style-name="T25">，</text:span><text:line-break/>即可下載金萱字型檔。</text:p>
-			<text:h text:style-name="P71" text:outline-level="2"><draw:frame draw:style-name="fr3" draw:name="影像4" text:anchor-type="as-char" svg:width="2.591cm" svg:height="2.565cm" draw:z-index="2"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-activation-email-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>認證 Email</text:h>
-			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">以當初於 FlyingV 贊助金萱時所留下的 Email<text:span text:style-name="T25">，</text:span><text:line-break/>進行個人身份的認證。</text:p>
-			<text:p text:style-name="P13">※若您忘記當初留的 Email<text:span text:style-name="T25">，</text:span>或想更改您所使用的 Email<text:span text:style-name="T25">，</text:span><text:line-break/>請透過本 PDF 最後一頁的聯絡方式與<text:span text:style-name="T35">justfont</text:span>聯絡<text:span text:style-name="T25">！</text:span></text:p>
+			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">需連上justfont的網站<text:span text:style-name="T36">，</text:span>透過會員登入認證後<text:span text:style-name="T25">，</text:span><text:line-break/>即可下載金萱字型檔。</text:p>
+			<text:h text:style-name="P71" text:outline-level="2"><draw:frame draw:style-name="fr3" draw:name="影像4" text:anchor-type="as-char" svg:width="2.591cm" svg:height="2.565cm" draw:z-index="2"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-activation-email-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>認證Email</text:h>
+			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">以當初於FlyingV贊助金萱時所留下的Email<text:span text:style-name="T25">，</text:span><text:line-break/>進行個人身份的認證。</text:p>
+			<text:p text:style-name="P13">※若您忘記當初留的Email<text:span text:style-name="T25">，</text:span>或想更改您所使用的Email<text:span text:style-name="T25">，</text:span><text:line-break/>請透過本PDF最後一頁的聯絡方式與<text:span text:style-name="T35">justfont</text:span>聯絡<text:span text:style-name="T25">！</text:span></text:p>
 			<text:h text:style-name="P60" text:outline-level="1"><draw:frame draw:style-name="fr3" draw:name="影像5" text:anchor-type="as-char" svg:width="1.244cm" svg:height="1.279cm" draw:z-index="3"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cd-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>使用紀念光碟</text:h>
-			<text:p text:style-name="P12">將紀念光碟放入電腦開啟後，開啟「金萱線上安裝.html 」</text:p>
+			<text:p text:style-name="P12">將紀念光碟放入電腦開啟後，開啟「金萱線上安裝.html」</text:p>
 			<text:p text:style-name="P12">成功後將進入下一張的畫面。</text:p>
 			<text:p text:style-name="P12">
 				<draw:frame draw:style-name="fr3" draw:name="影像6" text:anchor-type="as-char" svg:width="15.459cm" svg:height="13.037cm" draw:z-index="4">
@@ -1324,7 +1324,7 @@
 				</draw:frame>
 				<text:span text:style-name="T26">透過網路雲端下載</text:span>
 			</text:h>
-			<text:p text:style-name="P57">直接登入 justfont.store 頁面後，點選字型檔下載。</text:p>
+			<text:p text:style-name="P57">直接登入justfont.store頁面後，點選字型檔下載。</text:p>
 			<text:p text:style-name="P58">
 				<text:a xlink:type="simple" xlink:href="https://www.justfont.com/index/aboutstore/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.justfont.com/index/aboutstore/</text:a>
 			</text:p>
@@ -1334,7 +1334,7 @@
 				</draw:frame>
 			</text:p>
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
-			<text:list xml:id="list4410374624535197217" text:style-name="L1">
+			<text:list xml:id="list7328631390866012203" text:style-name="L1">
 				<text:list-header>
 					<text:p text:style-name="P72">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
 					<text:p text:style-name="P73">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
@@ -1379,17 +1379,17 @@
 				<text:span text:style-name="T31">）</text:span>
 			</text:p>
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
-			<text:list xml:id="list8831238168030741990" text:style-name="L2">
+			<text:list xml:id="list6213878081597697308" text:style-name="L2">
 				<text:list-item>
 					<text:p text:style-name="P74">
-						<text:span text:style-name="T41">金萱字型 Linux 系統非官方安裝支援的議題追蹤系統（需登入 GitHub 帳號方可使用）<text:line-break/></text:span>
+						<text:span text:style-name="T41">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/></text:span>
 						<text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">
 							<text:span text:style-name="T41">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:span>
 						</text:a>
 					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:list xml:id="list1626455754832525667" text:style-name="L3">
+			<text:list xml:id="list7798043266628708025" text:style-name="L3">
 				<text:list-item>
 					<text:p text:style-name="P75">
 						<text:span text:style-name="T41">Fonts – ArchWiki<text:line-break/></text:span>
