@@ -39,7 +39,7 @@ main() {
 	else
 		TEMP_FILE_NAME="$(basename "$PROGRAM_ARGUMENT_ORIGINAL_LIST").new" # Argument list is single filename
 
-		cat "$PROGRAM_ARGUMENT_ORIGINAL_LIST" | "$PROGRAM_DIRECTORY"/clean.bash >"$TEMP_FILE_NAME"
+		cat "$PROGRAM_ARGUMENT_ORIGINAL_LIST" | "$PROGRAM_DIRECTORY"/clean-fodt.bash >"$TEMP_FILE_NAME"
 		mv --force "$TEMP_FILE_NAME" "$PROGRAM_ARGUMENT_ORIGINAL_LIST"
 		exit 0
 	fi
