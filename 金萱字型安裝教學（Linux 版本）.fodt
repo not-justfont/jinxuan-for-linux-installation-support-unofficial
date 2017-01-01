@@ -964,11 +964,20 @@
 		<style:style style:name="P83" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L1">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
+		</style:style>
+		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L1" style:master-page-name="">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
+		</style:style>
+		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
 			<style:paragraph-properties style:page-number="1"/>
 		</style:style>
-		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L2"/>
-		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L3"/>
+		<style:style style:name="P87" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L2"/>
+		<style:style style:name="P88" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L3"/>
 		<style:style style:name="T1" style:family="text">
 			<style:text-properties officeooo:rsid="00cd53e7"/>
 		</style:style>
@@ -1341,7 +1350,7 @@
 			<text:user-field-decls>
 				<text:user-field-decl office:value-type="string" office:string-value="Creative Commons BY-SA 4.0+" text:name="智慧財產授權條款"/>
 			</text:user-field-decls>
-			<text:p text:style-name="P84"/>
+			<text:p text:style-name="P86"/>
 			<text:p text:style-name="Title">金萱字型安裝教學</text:p>
 			<text:p text:style-name="P44">
 				<draw:frame draw:style-name="fr1" draw:name="影像1" text:anchor-type="as-char" svg:width="9.968cm" svg:height="10.772cm" draw:z-index="0">
@@ -1392,8 +1401,8 @@
 			<text:h text:style-name="P22" text:outline-level="1">Linux 安裝字型流程</text:h>
 			<text:list text:style-name="L1">
 				<text:list-header>
-					<text:p text:style-name="P82">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
-					<text:p text:style-name="P82">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
+					<text:p text:style-name="P85">1. 下載後的字型檔名為: jf-jinxuan-medium.otf</text:p>
+					<text:p text:style-name="P84">※您可以將此檔案安裝於兩台個人電腦中使用</text:p>
 					<text:p text:style-name="P82"/>
 				</text:list-header>
 			</text:list>
@@ -1438,12 +1447,12 @@
 			<text:h text:style-name="P63" text:outline-level="2">建議求助 / 自救管道</text:h>
 			<text:list text:style-name="L2">
 				<text:list-item>
-					<text:p text:style-name="P85">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/><text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:a></text:p>
+					<text:p text:style-name="P87">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/><text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:a></text:p>
 				</text:list-item>
 			</text:list>
 			<text:list text:style-name="L3">
 				<text:list-item>
-					<text:p text:style-name="P86">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
+					<text:p text:style-name="P88">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
 				</text:list-item>
 			</text:list>
 			<text:h text:style-name="P20" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T43">justfont</text:span></text:h>
