@@ -761,429 +761,444 @@
 		<style:style style:name="P6" style:family="paragraph" style:parent-style-name="Title">
 			<style:text-properties fo:font-weight="normal" officeooo:rsid="0014ade7" officeooo:paragraph-rsid="0014ade7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
-		<style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P7" style:family="paragraph" style:parent-style-name="Title">
+			<style:text-properties fo:font-size="40pt" style:font-size-asian="40pt" style:font-size-complex="40pt"/>
+		</style:style>
+		<style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 			<style:text-properties officeooo:rsid="000ed79e" officeooo:paragraph-rsid="000ed79e"/>
 		</style:style>
-		<style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:text-properties officeooo:paragraph-rsid="0010cdf7"/>
 		</style:style>
-		<style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:text-properties officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 			<style:text-properties officeooo:rsid="001663ef" officeooo:paragraph-rsid="001663ef"/>
 		</style:style>
-		<style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<style:text-properties officeooo:rsid="0086c8a9"/>
-		</style:style>
 		<style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c53a90" officeooo:paragraph-rsid="00c53a90" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties officeooo:rsid="0086c8a9"/>
 		</style:style>
 		<style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="0098ff12" officeooo:paragraph-rsid="0098ff12" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c53a90" officeooo:paragraph-rsid="00c53a90" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-			<style:text-properties fo:font-size="16pt" officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="14pt" style:font-size-complex="16pt"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="0098ff12" officeooo:paragraph-rsid="0098ff12" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-			<style:text-properties fo:font-size="13.6999998092651pt" officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="12pt" style:font-size-complex="13.6999998092651pt"/>
+			<style:text-properties fo:font-size="16pt" officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="14pt" style:font-size-complex="16pt"/>
 		</style:style>
 		<style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+			<style:text-properties fo:font-size="13.6999998092651pt" officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="12pt" style:font-size-complex="13.6999998092651pt"/>
 		</style:style>
 		<style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<style:text-properties officeooo:rsid="00136378" officeooo:paragraph-rsid="00136378"/>
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 		</style:style>
 		<style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<style:text-properties officeooo:paragraph-rsid="00164dbb"/>
+			<style:text-properties officeooo:rsid="00136378" officeooo:paragraph-rsid="00136378"/>
 		</style:style>
 		<style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<style:text-properties officeooo:paragraph-rsid="0019131d"/>
+			<style:text-properties officeooo:paragraph-rsid="00164dbb"/>
 		</style:style>
 		<style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:text-properties officeooo:paragraph-rsid="0019131d"/>
+		</style:style>
+		<style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:text-properties officeooo:paragraph-rsid="001ad151"/>
 		</style:style>
-		<style:style style:name="P21" style:family="paragraph" style:parent-style-name="Subtitle">
+		<style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:text-properties officeooo:paragraph-rsid="001ed46e"/>
+		</style:style>
+		<style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<style:text-properties officeooo:paragraph-rsid="001f774d"/>
+		</style:style>
+		<style:style style:name="P24" style:family="paragraph" style:parent-style-name="Subtitle">
 			<style:text-properties officeooo:rsid="000ed79e" officeooo:paragraph-rsid="000ed79e"/>
 		</style:style>
-		<style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="0010cdf7"/>
 		</style:style>
-		<style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="00c63162"/>
 		</style:style>
-		<style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 			<style:text-properties officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374"/>
 		</style:style>
-		<style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 			<style:text-properties officeooo:rsid="00d06ffb" officeooo:paragraph-rsid="00d06ffb"/>
 		</style:style>
-		<style:style style:name="P29" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+		<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P30" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
+		<style:style style:name="P33" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<style:paragraph-properties fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="0019131d"/>
 		</style:style>
-		<style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+		<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
 			<style:paragraph-properties fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="001ad151"/>
 		</style:style>
-		<style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_5">
+		<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_5">
 			<style:text-properties officeooo:paragraph-rsid="0010cdf7"/>
 		</style:style>
-		<style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_5">
+		<style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_5">
 			<style:text-properties officeooo:paragraph-rsid="000fa217"/>
 		</style:style>
-		<style:style style:name="P35" style:family="paragraph" style:parent-style-name="Contents_20_1">
+		<style:style style:name="P38" style:family="paragraph" style:parent-style-name="Contents_20_1">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="16.979cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P36" style:family="paragraph" style:parent-style-name="Contents_20_1">
+		<style:style style:name="P39" style:family="paragraph" style:parent-style-name="Contents_20_1">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="19.2cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P37" style:family="paragraph" style:parent-style-name="List">
+		<style:style style:name="P40" style:family="paragraph" style:parent-style-name="List">
 			<style:text-properties officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P38" style:family="paragraph" style:parent-style-name="List">
+		<style:style style:name="P41" style:family="paragraph" style:parent-style-name="List">
 			<style:text-properties officeooo:rsid="00141109" officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P39" style:family="paragraph" style:parent-style-name="List">
+		<style:style style:name="P42" style:family="paragraph" style:parent-style-name="List">
 			<style:text-properties style:font-name="Droid Sans Mono1" officeooo:rsid="00141109" officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P40" style:family="paragraph" style:parent-style-name="Contents_20_5">
+		<style:style style:name="P43" style:family="paragraph" style:parent-style-name="Contents_20_5">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="14.982cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P41" style:family="paragraph" style:parent-style-name="Contents_20_5">
+		<style:style style:name="P44" style:family="paragraph" style:parent-style-name="Contents_20_5">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="17.203cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_4">
+		<style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_4">
 			<style:text-properties officeooo:paragraph-rsid="000fa217"/>
 		</style:style>
-		<style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
+		<style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_3">
 			<style:text-properties officeooo:paragraph-rsid="000fa217"/>
 		</style:style>
-		<style:style style:name="P44" style:family="paragraph" style:parent-style-name="Contents_20_4">
+		<style:style style:name="P47" style:family="paragraph" style:parent-style-name="Contents_20_4">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="15.482cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P45" style:family="paragraph" style:parent-style-name="Contents_20_4">
+		<style:style style:name="P48" style:family="paragraph" style:parent-style-name="Contents_20_4">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="17.702cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P46" style:family="paragraph" style:parent-style-name="Contents_20_2">
+		<style:style style:name="P49" style:family="paragraph" style:parent-style-name="Contents_20_2">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="16.48cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P47" style:family="paragraph" style:parent-style-name="Contents_20_2">
+		<style:style style:name="P50" style:family="paragraph" style:parent-style-name="Contents_20_2">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="18.701cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P48" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+		<style:style style:name="P51" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
 			<style:text-properties officeooo:paragraph-rsid="000fc679"/>
 		</style:style>
-		<style:style style:name="P49" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+		<style:style style:name="P52" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#bc7a00" fo:font-size="13pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P50" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+		<style:style style:name="P53" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#008000" fo:font-size="13pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P51" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+		<style:style style:name="P54" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" fo:font-size="13pt" fo:letter-spacing="normal" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P52" style:family="paragraph" style:parent-style-name="Contents_20_3">
+		<style:style style:name="P55" style:family="paragraph" style:parent-style-name="Contents_20_3">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="15.981cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P53" style:family="paragraph" style:parent-style-name="Contents_20_3">
+		<style:style style:name="P56" style:family="paragraph" style:parent-style-name="Contents_20_3">
 			<style:paragraph-properties>
 				<style:tab-stops>
 					<style:tab-stop style:position="18.202cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P54" style:family="paragraph" style:parent-style-name="Illustration">
+		<style:style style:name="P57" style:family="paragraph" style:parent-style-name="Illustration">
 			<style:text-properties officeooo:paragraph-rsid="0019e3d0"/>
 		</style:style>
-		<style:style style:name="P55" style:family="paragraph" style:parent-style-name="Illustration">
+		<style:style style:name="P58" style:family="paragraph" style:parent-style-name="Illustration">
 			<style:text-properties officeooo:paragraph-rsid="001bb56f"/>
 		</style:style>
-		<style:style style:name="P56" style:family="paragraph" style:parent-style-name="Title">
+		<style:style style:name="P59" style:family="paragraph" style:parent-style-name="Title">
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="true" fo:line-height="100%"/>
 			<style:text-properties fo:font-weight="normal" officeooo:rsid="0014ade7" officeooo:paragraph-rsid="0014ade7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
-		<style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+		<style:style style:name="P60" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+		<style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
-		</style:style>
-		<style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
-		</style:style>
-		<style:style style:name="P60" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
-		</style:style>
-		<style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
-			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cb606f" officeooo:paragraph-rsid="00cb606f" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
-			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cd53e7" officeooo:paragraph-rsid="00cd53e7" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties fo:font-size="18pt" fo:font-style="italic" officeooo:rsid="00cd53e7" officeooo:paragraph-rsid="00cd53e7" style:font-size-asian="18pt" style:font-style-asian="italic" style:font-size-complex="18pt" style:font-style-complex="italic"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
-			<style:text-properties officeooo:paragraph-rsid="00c69374"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cb606f" officeooo:paragraph-rsid="00cb606f" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cd53e7" officeooo:paragraph-rsid="00cd53e7" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+		</style:style>
+		<style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties fo:font-size="18pt" fo:font-style="italic" officeooo:rsid="00cd53e7" officeooo:paragraph-rsid="00cd53e7" style:font-size-asian="18pt" style:font-style-asian="italic" style:font-size-complex="18pt" style:font-style-complex="italic"/>
+		</style:style>
+		<style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body">
+			<loext:graphic-properties draw:fill="none"/>
+			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+			<style:text-properties officeooo:paragraph-rsid="00c69374"/>
+		</style:style>
+		<style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="page" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c9ee81" officeooo:paragraph-rsid="00c9ee81" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P67" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:break-before="page" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cb606f" officeooo:paragraph-rsid="00cb606f" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P68" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:break-before="page" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00cb606f" officeooo:paragraph-rsid="00cb606f" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P69" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+		<style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c63162" officeooo:paragraph-rsid="00c63162" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P70" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c63162" officeooo:paragraph-rsid="00c63162" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P71" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.6cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c63162" officeooo:paragraph-rsid="00c63162" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
 			<style:text-properties officeooo:rsid="00c53a90" officeooo:paragraph-rsid="00c53a90"/>
 		</style:style>
-		<style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P76" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+		<style:style style:name="P77" style:family="paragraph" style:parent-style-name="Heading_20_2">
 			<style:text-properties officeooo:paragraph-rsid="0097f739"/>
 		</style:style>
-		<style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_2">
+		<style:style style:name="P78" style:family="paragraph" style:parent-style-name="Heading_20_2">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 		</style:style>
-		<style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
+		<style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" officeooo:paragraph-rsid="00d06ffb" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P77" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:master-page-name="">
+		<style:style style:name="P80" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
 		</style:style>
-		<style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P81" style:family="paragraph" style:parent-style-name="_300c_您需要先確認兩件事情_300d_忘記電子郵件地址說明文字" style:master-page-name="">
+			<loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
+		</style:style>
+		<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c63162" officeooo:paragraph-rsid="00c63162" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
-		<style:style style:name="P79" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
+		<style:style style:name="P83" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="page"/>
 		</style:style>
-		<style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
 		</style:style>
-		<style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:text-align="start" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties officeooo:paragraph-rsid="00d06ffb"/>
 		</style:style>
-		<style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body">
+		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Text_20_body">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:background-color="transparent" style:writing-mode="page"/>
 		</style:style>
-		<style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties style:page-number="1" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P84" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
+		<style:style style:name="P88" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
 			<style:paragraph-properties style:page-number="1"/>
 		</style:style>
-		<style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+		<style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+			<style:paragraph-properties style:page-number="1"/>
+		</style:style>
+		<style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
 			<style:text-properties officeooo:paragraph-rsid="0097f739"/>
 		</style:style>
-		<style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
+		<style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_2" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="1.401cm" fo:margin-right="0cm" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" fo:keep-with-next="always" style:vertical-align="middle" style:writing-mode="page"/>
 		</style:style>
-		<style:style style:name="P87" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_說明文字">
+		<style:style style:name="P92" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_說明文字">
 			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
 		</style:style>
-		<style:style style:name="P88" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+		<style:style style:name="P93" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
 			<style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false"/>
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#008000" fo:font-size="13pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P89" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:master-page-name="">
+		<style:style style:name="P94" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.6cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="page" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#bc7a00" fo:font-size="13pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="0019131d" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P90" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_justfont_20_store_20_連結">
+		<style:style style:name="P95" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_justfont_20_store_20_連結">
 			<style:text-properties officeooo:paragraph-rsid="001aac74"/>
 		</style:style>
-		<style:style style:name="P91" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+		<style:style style:name="P96" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
 			<style:paragraph-properties fo:margin-left="1.499cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="start" style:justify-single-word="false" fo:text-indent="-0.9cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="page" fo:background-color="transparent" text:number-lines="false" text:line-number="0" style:writing-mode="page">
 				<style:tab-stops/>
 			</style:paragraph-properties>
 		</style:style>
-		<style:style style:name="P92" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
+		<style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_1">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+		</style:style>
+		<style:style style:name="P98" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
 			<style:paragraph-properties style:page-number="1"/>
 		</style:style>
-		<style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+		<style:style style:name="P99" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
 			<style:text-properties officeooo:paragraph-rsid="00164dbb"/>
 		</style:style>
-		<style:style style:name="P94" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+		<style:style style:name="P100" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
 			<style:text-properties officeooo:paragraph-rsid="001ad151"/>
 		</style:style>
-		<style:style style:name="P95" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-		<style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P101" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+			<style:text-properties officeooo:paragraph-rsid="001ed46e"/>
+		</style:style>
+		<style:style style:name="P102" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
+		<style:style style:name="P103" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+			<style:text-properties officeooo:paragraph-rsid="001f774d"/>
+		</style:style>
+		<style:style style:name="P104" style:family="paragraph" style:parent-style-name="Heading_20_1">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+		</style:style>
+		<style:style style:name="P105" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
+		<style:style style:name="P106" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:page-number="auto" fo:break-before="page" style:writing-mode="page"/>
 			<style:text-properties officeooo:rsid="00c53a90" officeooo:paragraph-rsid="00c53a90"/>
 		</style:style>
-		<style:style style:name="P98" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P107" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P108" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 		</style:style>
-		<style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P109" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 			<style:text-properties officeooo:paragraph-rsid="00c63162"/>
 		</style:style>
-		<style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_1">
+		<style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_1">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
 			<style:text-properties officeooo:rsid="00c69374" officeooo:paragraph-rsid="00c69374"/>
 		</style:style>
-		<style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_2">
+		<style:style style:name="P111" style:family="paragraph" style:parent-style-name="Heading_20_2">
 			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
 		</style:style>
-		<style:style style:name="P103" style:family="paragraph" style:parent-style-name="Title">
-			<style:text-properties fo:font-size="40pt" style:font-size-asian="40pt" style:font-size-complex="40pt"/>
-		</style:style>
-		<style:style style:name="P104" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:list-style-name="L3" style:master-page-name="">
+		<style:style style:name="P112" style:family="paragraph" style:parent-style-name="Preformatted_20_Text" style:list-style-name="L3" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.6cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="page" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#bc7a00" fo:font-size="13pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="0019131d" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
 		</style:style>
-		<style:style style:name="P105" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_說明文字">
-			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
-		</style:style>
-		<style:style style:name="P106" style:family="paragraph" style:parent-style-name="_300c_您需要先確認兩件事情_300d_忘記電子郵件地址說明文字" style:list-style-name="" style:master-page-name="">
-			<loext:graphic-properties draw:fill="none" draw:fill-color="#729fcf"/>
-			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
-		</style:style>
-		<style:style style:name="P107" style:family="paragraph" style:parent-style-name="_300c_透過網路雲端下載_300d_justfont_20_store_20_連結">
-			<style:text-properties officeooo:paragraph-rsid="001aac74"/>
-		</style:style>
-		<style:style style:name="P108" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L5"/>
-		<style:style style:name="P109" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L6"/>
-		<style:style style:name="P110" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L2"/>
-		<style:style style:name="P111" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L1" style:master-page-name="">
+		<style:style style:name="P113" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L2"/>
+		<style:style style:name="P114" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L1" style:master-page-name="">
 			<loext:graphic-properties draw:fill="none"/>
 			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="150%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="page"/>
 			<style:text-properties officeooo:paragraph-rsid="00115a37"/>
 		</style:style>
-		<style:style style:name="P112" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L2">
+		<style:style style:name="P115" style:family="paragraph" style:parent-style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字" style:list-style-name="L2">
 			<style:paragraph-properties fo:break-before="page"/>
 		</style:style>
+		<style:style style:name="P116" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L6"/>
+		<style:style style:name="P117" style:family="paragraph" style:parent-style-name="_300c_建議求助_ff0f_自助管道_300d_說明文字" style:list-style-name="L7"/>
 		<style:style style:name="T1" style:family="text">
 			<style:text-properties officeooo:rsid="00cd53e7"/>
 		</style:style>
@@ -1382,6 +1397,12 @@
 		</style:style>
 		<style:style style:name="T67" style:family="text">
 			<style:text-properties style:font-name-asian="monospace"/>
+		</style:style>
+		<style:style style:name="T68" style:family="text">
+			<style:text-properties officeooo:rsid="001ed46e"/>
+		</style:style>
+		<style:style style:name="T69" style:family="text">
+			<style:text-properties officeooo:rsid="001f774d"/>
 		</style:style>
 		<style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -1619,6 +1640,58 @@
 			</text:list-level-style-number>
 		</text:list-style>
 		<text:list-style style:name="L5">
+			<text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="space" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+			<text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+				</style:list-level-properties>
+			</text:list-level-style-number>
+		</text:list-style>
+		<text:list-style style:name="L6">
 			<text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
 				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
 					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
@@ -1670,7 +1743,7 @@
 				</style:list-level-properties>
 			</text:list-level-style-bullet>
 		</text:list-style>
-		<text:list-style style:name="L6">
+		<text:list-style style:name="L7">
 			<text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
 				<style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
 					<style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
@@ -1732,7 +1805,7 @@
 			</style:footer-style>
 		</style:page-layout>
 		<style:page-layout style:name="pm2">
-			<style:page-layout-properties fo:page-width="21.2cm" fo:page-height="21.2cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" fo:border="0.99pt dotted #33ff99" fo:padding="0.049cm" style:shadow="none" style:writing-mode="lr-tb" draw:fill-image-width="0cm" draw:fill-image-height="0cm" style:footnote-max-height="0cm">
+			<style:page-layout-properties fo:page-width="21.2cm" fo:page-height="21.2cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm" fo:margin-right="1cm" fo:border="10.49pt double #98d000" style:border-line-width="0.035cm 0.3cm 0.035cm" fo:padding="0.499cm" style:shadow="none" style:writing-mode="lr-tb" draw:fill-image-width="0cm" draw:fill-image-height="0cm" style:footnote-max-height="0cm">
 				<style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
 			</style:page-layout-properties>
 			<style:header-style/>
@@ -1773,7 +1846,8 @@
 			<draw:frame draw:style-name="fr1" draw:name="影像8" text:anchor-type="page" text:anchor-page-number="5" svg:x="1.718cm" svg:y="5.854cm" svg:width="18.422cm" svg:height="13.049cm" draw:z-index="10">
 				<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-justfont-store-page-screenshot.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 			</draw:frame>
-			<text:p text:style-name="P92"/>
+			<text:p text:style-name="P98"/>
+			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
@@ -1782,60 +1856,61 @@
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Title">金萱字型安裝教學</text:p>
-			<text:p text:style-name="P55">
+			<text:p text:style-name="P58">
 				<draw:frame draw:style-name="fr2" draw:name="影像1" text:anchor-type="as-char" svg:width="5.002cm" svg:height="5.406cm" draw:z-index="0">
 					<draw:image xlink:href="./資源/專案標誌.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:p text:style-name="P54">
+			<text:p text:style-name="P57">
 				<text:span text:style-name="T8">Linux 作業系統核心標誌由Larry Ewing所作<text:line-break/>手搖杯圖翻攝自COMEBUY金萱現泡茶產品</text:span>
 			</text:p>
-			<text:p text:style-name="P103">Linux 版本</text:p>
+			<text:p text:style-name="P7">Linux 版本</text:p>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
 			<text:p text:style-name="Standard"/>
-			<text:p text:style-name="P15">本作品並非由justfont所著，不代表justfont立場</text:p>
-			<text:h text:style-name="P73" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1750_1985123062"/><draw:frame draw:style-name="fr3" draw:name="影像15" text:anchor-type="as-char" svg:width="1.722cm" svg:height="2.252cm" draw:z-index="11"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-VIP-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>金萱為您專屬現泡<text:bookmark-end text:name="__RefHeading__1750_1985123062"/></text:h>
+			<text:p text:style-name="Standard"/>
+			<text:p text:style-name="P16">本作品並非由justfont所著，不代表justfont立場</text:p>
+			<text:h text:style-name="P76" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1750_1985123062"/><draw:frame draw:style-name="fr3" draw:name="影像15" text:anchor-type="as-char" svg:width="1.722cm" svg:height="2.252cm" draw:z-index="11"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-VIP-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>金萱為您專屬現泡<text:bookmark-end text:name="__RefHeading__1750_1985123062"/></text:h>
 			<text:p text:style-name="_300c_金萱為您專屬現泡_300d_說明文字">每位贊助<text:span text:style-name="T23">者的金萱字型檔都是獨一無二，<text:line-break/>裡面會附上您的大名，以銘謝您的支持。</text:span></text:p>
 			<text:p text:style-name="Text_20_body">
 				<draw:frame draw:style-name="fr4" draw:name="影像2" text:anchor-type="as-char" svg:width="18.168cm" svg:height="11.495cm" draw:z-index="1">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-metadata-credit-example.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:h text:style-name="P22" text:outline-level="1">您需要先確認兩件事情</text:h>
+			<text:h text:style-name="P25" text:outline-level="1">您需要先確認兩件事情</text:h>
 			<text:h text:style-name="_300c_您需要先確認兩件事情_300d_子標題" text:outline-level="1"><text:span text:style-name="T24"><draw:frame draw:style-name="fr5" draw:name="影像3" text:anchor-type="as-char" svg:width="2.688cm" svg:height="2.542cm" draw:z-index="12"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-network-connection-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame></text:span><text:span text:style-name="T24">已</text:span>連上網路的電腦</text:h>
 			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">需連上justfont的網站<text:span text:style-name="T36">，</text:span>透過會員登入認證後<text:span text:style-name="T25">，</text:span><text:line-break/>即可下載金萱字型檔。</text:p>
 			<text:h text:style-name="_300c_您需要先確認兩件事情_300d_子標題" text:outline-level="1"><draw:frame draw:style-name="fr6" draw:name="影像4" text:anchor-type="as-char" svg:width="2.591cm" svg:height="2.565cm" draw:z-index="2"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-activation-email-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>認證Email</text:h>
 			<text:p text:style-name="_300c_您需要先確認兩件事情_300d_說明文字">以當初於FlyingV贊助金萱時所留下的Email<text:span text:style-name="T25">，</text:span><text:line-break/>進行個人身份的認證。</text:p>
 			<text:p text:style-name="Text_20_body"/>
-			<text:p text:style-name="P106">※若您忘記當初留的Email，或想更改您所使用的Email，<text:line-break/>請透過本PDF最後一頁的聯絡方式與justfont聯絡！</text:p>
-			<text:h text:style-name="P72" text:outline-level="1"><draw:frame draw:style-name="fr7" draw:name="影像5" text:anchor-type="as-char" svg:y="-1.286cm" svg:width="1.508cm" svg:height="1.55cm" draw:z-index="3"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cd-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>使用紀念光碟</text:h>
+			<text:p text:style-name="P81">※若您忘記當初留的Email，或想更改您所使用的Email，<text:line-break/>請透過本PDF最後一頁的聯絡方式與justfont聯絡！</text:p>
+			<text:h text:style-name="P75" text:outline-level="1"><draw:frame draw:style-name="fr7" draw:name="影像5" text:anchor-type="as-char" svg:y="-1.286cm" svg:width="1.508cm" svg:height="1.55cm" draw:z-index="3"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cd-icon.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>使用紀念光碟</text:h>
 			<text:p text:style-name="_300c_使用紀念光碟_300d_說明文字">將紀念光碟放入電腦開啟後，開啟「金萱線上安裝.html」<text:line-break/>成功後將進入下一張的畫面。</text:p>
-			<text:p text:style-name="P12">
+			<text:p text:style-name="P13">
 				<draw:frame draw:style-name="fr4" draw:name="影像6" text:anchor-type="as-char" svg:width="15.459cm" svg:height="13.037cm" draw:z-index="4">
 					<draw:image xlink:href="./資源/金萱產品光碟檔案瀏覽器畫面截圖.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:h text:style-name="P26" text:outline-level="1">
+			<text:h text:style-name="P29" text:outline-level="1">
 				<draw:frame draw:style-name="fr8" draw:name="影像7" text:anchor-type="as-char" svg:width="2.438cm" svg:height="1.7cm" draw:z-index="5">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-cloud-download-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 				<text:span text:style-name="T26">透過網路雲端下載</text:span>
 			</text:h>
-			<text:p text:style-name="P87">直接登入justfont.store頁面後，點選字型檔下載。</text:p>
-			<text:p text:style-name="P90">
+			<text:p text:style-name="P92">直接登入justfont.store頁面後，點選字型檔下載。</text:p>
+			<text:p text:style-name="P95">
 				<text:a xlink:type="simple" xlink:href="https://www.justfont.com/index/aboutstore/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.justfont.com/index/aboutstore/</text:a>
 			</text:p>
-			<text:h text:style-name="P27" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像16" text:anchor-type="as-char" svg:width="2cm" svg:height="2.42cm" draw:z-index="13"><draw:image xlink:href="./資源/Linux-Pinguino.single-color.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame><text:bookmark-start text:name="__DdeLink__592_568666738"/>Linux安裝字型流程<text:bookmark-end text:name="__DdeLink__592_568666738"/></text:h>
+			<text:h text:style-name="P30" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像16" text:anchor-type="as-char" svg:width="2cm" svg:height="2.42cm" draw:z-index="13"><draw:image xlink:href="./資源/Linux-Pinguino.single-color.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame><text:bookmark-start text:name="__DdeLink__592_568666738"/>Linux安裝字型流程<text:bookmark-end text:name="__DdeLink__592_568666738"/></text:h>
 			<text:list text:style-name="L1">
 				<text:list-item>
-					<text:p text:style-name="P111">下載後的字型檔名為: jf-jinxuan-medium.otf<text:line-break/><text:span text:style-name="T51">※您可以將此檔案安裝於兩台個人電腦中使用</text:span></text:p>
+					<text:p text:style-name="P114">下載後的字型檔名為: jf-jinxuan-medium.otf<text:line-break/><text:span text:style-name="T51">※您可以將此檔案安裝於兩台個人電腦中使用</text:span></text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P65">
+			<text:p text:style-name="P68">
 				<text:span text:style-name="T52">
 					<draw:frame draw:style-name="fr4" draw:name="影像9" text:anchor-type="as-char" svg:width="16.612cm" svg:height="11.128cm" draw:z-index="6">
 						<draw:image xlink:href="./資源/下載下來的金萱字型檔案瀏覽器截圖.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
@@ -1845,20 +1920,20 @@
 			</text:p>
 			<text:list text:style-name="L2">
 				<text:list-item>
-					<text:p text:style-name="P112">點擊字型檔兩下後，會開啟並顯示字型預覽（如下圖）<text:line-break/>點<text:span text:style-name="T29">擊</text:span>「安裝」按鈕，即可完成安裝。</text:p>
+					<text:p text:style-name="P115">點擊字型檔兩下後，會開啟並顯示字型預覽（如下圖）<text:line-break/>點<text:span text:style-name="T29">擊</text:span>「安裝」按鈕，即可完成安裝。</text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P61">
+			<text:p text:style-name="P64">
 				<draw:frame draw:style-name="fr4" draw:name="影像10" text:anchor-type="as-char" svg:width="12.938cm" svg:height="5.422cm" draw:z-index="7">
 					<draw:image xlink:href="./資源/下載下來的字型的字型預覽視窗畫面.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
 			<text:list text:continue-numbering="true" text:style-name="L2">
 				<text:list-item>
-					<text:p text:style-name="P110">若想確認是否有安裝成功，請至：<text:line-break/><text:span text:style-name="T46">※「應用軟體選單」→「附屬工具程式」→「字型檢視程式」</text:span></text:p>
+					<text:p text:style-name="P113">若想確認是否有安裝成功，請至：<text:line-break/><text:span text:style-name="T46">※「應用軟體選單」→「附屬工具程式」→「字型檢視程式」</text:span></text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P61">
+			<text:p text:style-name="P64">
 				<draw:frame draw:style-name="fr4" draw:name="影像11" text:anchor-type="as-char" svg:width="15.884cm" svg:height="6.772cm" draw:z-index="15">
 					<draw:image xlink:href="./資源/ubuntu-font-viewer-traverse-instruction-in-unity-dash.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
@@ -1868,16 +1943,16 @@
 					<text:p text:style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字"><text:soft-page-break/>您可在<text:span text:style-name="T27">「字型檢視程式」應用軟體</text:span>中，確認是否有<text:span text:style-name="T28">jf金萱鮮摘 /</text:span> jf-jinxuan-fresh。</text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P62">
+			<text:p text:style-name="P65">
 				<draw:frame draw:style-name="fr4" draw:name="影像12" text:anchor-type="as-char" svg:width="18.68cm" svg:height="13.986cm" draw:z-index="8">
 					<draw:image xlink:href="./資源/ubuntu-font-viewer-all-fonts-view.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 				</draw:frame>
 			</text:p>
-			<text:h text:style-name="P25" text:outline-level="1">將金萱設定為介面預設字型</text:h>
-			<text:p text:style-name="P17">目前<text:span text:style-name="T54">Linux系統使用的字型設定機制為Fontconfig，</text:span>您可以依照下列步驟將金萱設定為操作介面預設字型。注意設定方式因作業系統散佈版不同而有所差異，請參考<text:span text:style-name="T54">Fontconfig的散佈版隨附說明文件以及其全域設定檔。這邊以Ubuntu散佈版第16.04釋出版本為例：</text:span></text:p>
+			<text:h text:style-name="P28" text:outline-level="1">將金萱設定為介面預設字型</text:h>
+			<text:p text:style-name="P18">目前<text:span text:style-name="T54">Linux系統使用的字型設定機制為Fontconfig，</text:span>您可以依照下列步驟將金萱設定為操作介面預設字型。注意設定方式因作業系統散佈版不同而有所差異，請參考<text:span text:style-name="T54">Fontconfig的散佈版隨附說明文件以及其全域設定檔。這邊以Ubuntu散佈版16.04釋出版本為例：</text:span></text:p>
 			<text:list text:style-name="L3">
 				<text:list-item>
-					<text:p text:style-name="P93">
+					<text:p text:style-name="P99">
 						<text:span text:style-name="T53">根據 </text:span>
 						<text:span text:style-name="Source_20_Text">
 							<text:span text:style-name="T53">/etc/fonts/conf.d/50-user.conf</text:span>
@@ -1890,13 +1965,13 @@
 					</text:p>
 				</text:list-item>
 				<text:list-item>
-					<text:p text:style-name="P94">在該目錄下建立一名為 <text:span text:style-name="Source_20_Text">將金萱設定為介面預設字型.</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T56">conf</text:span></text:span><text:span text:style-name="T56">，寫入下頁內容（「jf 金萱鮮摘」請替換為正確的字型家族名稱，可使用</text:span><text:span text:style-name="Source_20_Text">fc-query 〈字型檔路徑〉 | grep '^[[:space:]]</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T63">family</text:span></text:span><text:span text:style-name="Source_20_Text">:' </text:span><text:span text:style-name="T66">命令查詢）</text:span><text:span text:style-name="T56">：</text:span></text:p>
-					<text:p text:style-name="P104">&lt;?xml version="1.0"?&gt;</text:p>
+					<text:p text:style-name="P100">在該目錄下建立一名為 <text:span text:style-name="Source_20_Text">將金萱設定為介面預設字型.</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T56">conf</text:span></text:span><text:span text:style-name="T56">，寫入下頁內容（「jf 金萱鮮摘」請替換為正確的字型家族名稱，可使用</text:span><text:span text:style-name="Source_20_Text">fc-query 〈字型檔路徑〉 | grep '^[[:space:]]</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T63">family</text:span></text:span><text:span text:style-name="Source_20_Text">:' </text:span><text:span text:style-name="T66">命令查詢）</text:span><text:span text:style-name="T56">：</text:span></text:p>
+					<text:p text:style-name="P112">&lt;?xml version="1.0"?&gt;</text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P49">&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;</text:p>
-			<text:p text:style-name="P50">&lt;fontconfig&gt;</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P52">&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;</text:p>
+			<text:p text:style-name="P53">&lt;fontconfig&gt;</text:p>
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;match</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1904,7 +1979,7 @@
 				<text:span text:style-name="T60">"pattern"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1915,17 +1990,17 @@
 				<text:span text:style-name="T60">"family"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">serif</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1933,17 +2008,17 @@
 				<text:span text:style-name="T60">"lang"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">zh-tw</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;edit</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1957,22 +2032,22 @@
 				<text:span text:style-name="T60">"strong"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">jf</text:span>
 				<text:span text:style-name="T61">金萱鮮摘</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;match</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1980,7 +2055,7 @@
 				<text:span text:style-name="T60">"pattern"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -1991,17 +2066,17 @@
 				<text:span text:style-name="T60">"family"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">sans-serif</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2009,17 +2084,17 @@
 				<text:span text:style-name="T60">"lang"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">zh-tw</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;edit</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2033,22 +2108,22 @@
 				<text:span text:style-name="T60">"strong"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">jf</text:span>
 				<text:span text:style-name="T61">金萱鮮摘</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;match</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2056,7 +2131,7 @@
 				<text:span text:style-name="T60">"pattern"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2067,17 +2142,17 @@
 				<text:span text:style-name="T60">"family"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">monospace</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;test</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2085,17 +2160,17 @@
 				<text:span text:style-name="T60">"lang"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">zh-tw</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;edit</text:span>
 				<text:span text:style-name="T57"> </text:span>
@@ -2109,34 +2184,49 @@
 				<text:span text:style-name="T60">"strong"</text:span>
 				<text:span text:style-name="T58">&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">Ubuntu Mono</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="12"/>
 				<text:span text:style-name="T58">&lt;string&gt;</text:span>
 				<text:span text:style-name="T57">jf</text:span>
 				<text:span text:style-name="T61">金萱鮮摘</text:span>
 				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="8"/>
 				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P51">
+			<text:p text:style-name="P54">
 				<text:s text:c="4"/>
 				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
 			</text:p>
-			<text:p text:style-name="P88">&lt;/fontconfig&gt;</text:p>
+			<text:p text:style-name="P93">&lt;/fontconfig&gt;</text:p>
 			<text:list text:style-name="L4">
 				<text:list-item>
-					<text:p text:style-name="P95"><text:soft-page-break/>重新啟動 <text:span text:style-name="T62">X 視窗系統作業階段以讓變更生效，如遇到問題於終端機命令列介面中移除該檔案再重新啟動 X 視窗系統作業階段即可復原。</text:span></text:p>
+					<text:p text:style-name="P101"><text:soft-page-break/>重新啟動 <text:span text:style-name="T62">X 視窗系統作業階段以讓變更生效，如遇到問題於終端機命令列介面中移除該檔案再重新啟動 X 視窗系統作業階段即可復原。</text:span></text:p>
 				</text:list-item>
 			</text:list>
-			<text:h text:style-name="P25" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="16"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>問題排解</text:h>
+			<text:h text:style-name="P97" text:outline-level="1">將金萱設定為介面預設字型<text:line-break/>（全系統範圍）</text:h>
+			<text:list text:style-name="L5">
+				<text:list-item>
+					<text:p text:style-name="P102">以<text:span text:style-name="T68">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T68">/usr/local/share/fonts/opentype/justfont</text:span></text:span><text:span text:style-name="T68">目錄下</text:span></text:p>
+				</text:list-item>
+				<text:list-item>
+					<text:p text:style-name="P102">（選用）以<text:span text:style-name="T68">root身份在終端機內執行</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T68">fc-cache --system-only --verbose</text:span></text:span>命令重建 Fontconfig 快取資料</text:p>
+				</text:list-item>
+				<text:list-item>
+					<text:p text:style-name="P103">以<text:span text:style-name="T68">root身份編輯 /etc/fonts/conf.d/69-language-selector-zh-tw.conf設定檔，仿照前段落的設定方式將金萱設為serif、sans-serif以及monospace預設字型</text:span></text:p>
+				</text:list-item>
+				<text:list-item>
+					<text:p text:style-name="P103">登出<text:span text:style-name="T69">X</text:span>作業階段後重新啟動<text:span text:style-name="T69">X 視窗系統顯示管理員(Display Manager)（或是直接重新開機）以讓設定生效</text:span></text:p>
+				</text:list-item>
+			</text:list>
+			<text:h text:style-name="P28" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="16"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>問題排解</text:h>
 			<text:p text:style-name="_300c_問題排解_300d_說明文字">justfont<text:span text:style-name="T43">並不保證</text:span>金萱字型在Linux作業系統的使用<text:line-break/>若遇到安裝錯誤或還有其他使用問題，請<text:span text:style-name="T43">不要</text:span>與他們聯繫！</text:p>
 			<text:p text:style-name="Illustration">
 				<draw:frame draw:style-name="fr9" draw:name="影像14" text:anchor-type="as-char" svg:width="6.837cm" svg:height="2.942cm" draw:z-index="9">
@@ -2151,19 +2241,19 @@
 				<text:a xlink:type="simple" xlink:href="https://www.flyingv.cc/projects/8250" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"> </text:a>
 				<text:span text:style-name="T31">）</text:span>
 			</text:p>
-			<text:h text:style-name="P75" text:outline-level="2">建議求助 / 自救管道</text:h>
-			<text:list text:style-name="L5">
-				<text:list-item>
-					<text:p text:style-name="P108">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/><text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:a></text:p>
-				</text:list-item>
-			</text:list>
+			<text:h text:style-name="P78" text:outline-level="2">建議求助 / 自救管道</text:h>
 			<text:list text:style-name="L6">
 				<text:list-item>
-					<text:p text:style-name="P109">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
+					<text:p text:style-name="P116">金萱字型Linux系統非官方安裝支援的議題追蹤系統（需登入GitHub帳號方可使用）<text:line-break/><text:a xlink:type="simple" xlink:href="https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://github.com/not-justfont/jinxuan-for-linux-installation-support-unofficial/issues</text:a></text:p>
 				</text:list-item>
 			</text:list>
-			<text:h text:style-name="P25" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T44">justfont</text:span></text:h>
-			<text:p text:style-name="P16">
+			<text:list text:style-name="L7">
+				<text:list-item>
+					<text:p text:style-name="P117">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
+				</text:list-item>
+			</text:list>
+			<text:h text:style-name="P28" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T44">justfont</text:span></text:h>
+			<text:p text:style-name="P17">
 				<draw:frame draw:style-name="fr4" draw:name="justfont的標誌" text:anchor-type="as-char" svg:width="6.498cm" svg:height="6.498cm" draw:z-index="14">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jf-logo-sns-head.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
 					<svg:title>justfont的標誌</svg:title>
