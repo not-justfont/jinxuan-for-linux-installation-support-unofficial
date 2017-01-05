@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # 上列為宣告執行 script 程式用的殼程式(shell)的 shebang
-# clean-fodt.manual-apply.bash - Clean filter for Flat ODT wrapper for manual applying
+# Clean filter for Flat-ODF wrapper for manual applying
 # 林博仁 © 2016
 
 ######## File scope variable definitions ########
@@ -32,15 +32,22 @@ set -o pipefail
 # Defensive Bash Programming - main function, program entry point
 # http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/
 main() {
+	local target_file_path="$PROGRAM_ARGUMENT_ORIGINAL_LIST"
+
 	if [ $PROGRAM_ARGUMENT_ORIGINAL_NUMBER -ne 1 ]; then
 		printf "錯誤：參數數量錯誤。\n" 1>&2
 		printf "資訊：使用方式：$PROGRAM_FILENAME 〈要套用過濾器的檔案〉\n"
 		exit 1
 	else
-		TEMP_FILE_NAME="$(basename "$PROGRAM_ARGUMENT_ORIGINAL_LIST").new" # Argument list is single filename
+		local temp_file_name="$(basename "$target_file_path").new" # Argument list is single filename
+		local temp_file="$PROGRAM_DIRECTORY/$temp_file_name"
 
-		cat "$PROGRAM_ARGUMENT_ORIGINAL_LIST" | "$PROGRAM_DIRECTORY"/clean-fodt.bash >"$TEMP_FILE_NAME"
-		mv --force "$TEMP_FILE_NAME" "$PROGRAM_ARGUMENT_ORIGINAL_LIST"
+		rm --force "$temp_file"
+
+		cat "$PROGRAM_ARGUMENT_ORIGINAL_LIST" | "$PROGRAM_DIRECTORY"/clean-fodf.bash >"$temp_file"
+
+		mv --force "$temp_file" "$PROGRAM_ARGUMENT_ORIGINAL_LIST"
+
 		exit 0
 	fi
 	# Shouldn't be here

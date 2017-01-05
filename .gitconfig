@@ -1,5 +1,5 @@
-[filter "clean-fodt"]
-	clean =  \"Git Clean and Smudge Filters/clean-fodt.bash\"
+[filter "clean-fodf"]
+	clean =  \"Git Clean and Smudge Filters/clean-fodf.bash\"
 
 [filter "clean-xml"]
 	clean =  \"Git Clean and Smudge Filters/clean-xml.bash\"
