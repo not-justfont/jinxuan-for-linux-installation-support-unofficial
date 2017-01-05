@@ -66,7 +66,7 @@ main() {
 	# 不追蹤非必要且會變動的 xml:id 屬性
 	xml_transform_node "$PROGRAM_DIRECTORY"/clean-fodf.remove-xml-id-attributes.xslt "$temp_file"
 
-	xml_format_node "$temp_file"
+	#xml_format_node "$temp_file"
 
 	cat "$temp_file"
 
