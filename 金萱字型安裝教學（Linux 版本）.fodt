@@ -28,6 +28,7 @@
 		<style:font-face style:name="jf金萱鮮摘" svg:font-family="jf金萱鮮摘" style:font-adornments="半糖"/>
 		<style:font-face style:name="monospace" svg:font-family="monospace"/>
 		<style:font-face style:name="Noto Sans CJK TC Regular1" svg:font-family="'Noto Sans CJK TC Regular'" style:font-adornments="標準" style:font-family-generic="swiss"/>
+		<style:font-face style:name="Noto Mono" svg:font-family="'Noto Mono'" style:font-adornments="標準" style:font-pitch="fixed"/>
 		<style:font-face style:name="Liberation Mono" svg:font-family="'Liberation Mono'" style:font-family-generic="modern" style:font-pitch="fixed"/>
 		<style:font-face style:name="文泉驛等寬微米黑1" svg:font-family="文泉驛等寬微米黑" style:font-family-generic="modern" style:font-pitch="fixed"/>
 		<style:font-face style:name="Droid Sans Mono1" svg:font-family="'Droid Sans Mono'" style:font-family-generic="swiss" style:font-pitch="fixed"/>
@@ -262,7 +263,7 @@
 			<style:text-properties fo:color="#800000" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
 		</style:style>
 		<style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
-			<style:text-properties style:font-name="文泉驛等寬微米黑" fo:font-family="文泉驛等寬微米黑" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="文泉驛等寬微米黑1" style:font-family-asian="文泉驛等寬微米黑" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="14pt" style:font-name-complex="Liberation Mono" style:font-family-complex="'Liberation Mono'" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+			<style:text-properties style:font-name="Noto Mono" fo:font-family="'Noto Mono'" style:font-style-name="標準" style:font-pitch="fixed" fo:font-size="11pt" style:font-name-asian="jf金萱鮮摘2.1" style:font-family-asian="jf金萱鮮摘2.1" style:font-style-name-asian="半糖" style:font-pitch-asian="variable" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-name-complex="Liberation Mono" style:font-family-complex="'Liberation Mono'" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
 		</style:style>
 		<style:style style:name="Graphics" style:family="graphic">
 			<style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
@@ -1348,100 +1349,157 @@
 			<style:text-properties officeooo:rsid="00d2d6d4"/>
 		</style:style>
 		<style:style style:name="T41" style:family="text">
-			<style:text-properties fo:font-size="12pt" officeooo:rsid="00ceab60" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+			<style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T42" style:family="text">
-			<style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+			<style:text-properties fo:font-size="12pt" officeooo:rsid="00ceab60" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T43" style:family="text">
-			<style:text-properties fo:color="#ff3333" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+			<style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T44" style:family="text">
-			<style:text-properties officeooo:rsid="0015becd"/>
+			<style:text-properties fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T45" style:family="text">
-			<style:text-properties fo:color="#98d000"/>
+			<style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="T46" style:family="text">
-			<style:text-properties fo:color="#98d000" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:color="#ff3333" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
 		</style:style>
 		<style:style style:name="T47" style:family="text">
-			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="0098ff12" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties officeooo:rsid="0015becd"/>
 		</style:style>
 		<style:style style:name="T48" style:family="text">
-			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00c53a90" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:color="#98d000"/>
 		</style:style>
 		<style:style style:name="T49" style:family="text">
-			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00cfe166" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T50" style:family="text">
-			<style:text-properties fo:color="#98d000" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="0098ff12" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T51" style:family="text">
-			<style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00c53a90" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T52" style:family="text">
-			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="18pt" officeooo:rsid="00cfe166" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T53" style:family="text">
-			<style:text-properties officeooo:rsid="00136378"/>
+			<style:text-properties fo:color="#98d000" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
 		</style:style>
 		<style:style style:name="T54" style:family="text">
-			<style:text-properties officeooo:rsid="00155317"/>
+			<style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T55" style:family="text">
-			<style:text-properties officeooo:rsid="00159f64"/>
+			<style:text-properties fo:font-size="18pt" officeooo:rsid="00c69374" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
 		</style:style>
 		<style:style style:name="T56" style:family="text">
-			<style:text-properties officeooo:rsid="00164dbb"/>
+			<style:text-properties officeooo:rsid="00136378"/>
 		</style:style>
 		<style:style style:name="T57" style:family="text">
-			<style:text-properties fo:font-style="normal" fo:font-weight="normal"/>
+			<style:text-properties officeooo:rsid="00155317"/>
 		</style:style>
 		<style:style style:name="T58" style:family="text">
-			<style:text-properties fo:color="#008000" fo:font-style="normal" fo:font-weight="bold"/>
+			<style:text-properties officeooo:rsid="00159f64"/>
 		</style:style>
 		<style:style style:name="T59" style:family="text">
-			<style:text-properties fo:color="#008000" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00091212"/>
+			<style:text-properties officeooo:rsid="00164dbb"/>
 		</style:style>
 		<style:style style:name="T60" style:family="text">
-			<style:text-properties fo:color="#7d9029" fo:font-style="normal" fo:font-weight="normal"/>
+			<style:text-properties fo:font-style="normal" fo:font-weight="normal"/>
 		</style:style>
 		<style:style style:name="T61" style:family="text">
-			<style:text-properties fo:color="#ba2121" fo:font-style="normal" fo:font-weight="normal"/>
+			<style:text-properties fo:color="#008000" fo:font-style="normal" fo:font-weight="bold"/>
 		</style:style>
 		<style:style style:name="T62" style:family="text">
-			<style:text-properties style:font-style-asian="normal" style:font-weight-asian="normal"/>
+			<style:text-properties fo:color="#008000" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00091212"/>
 		</style:style>
 		<style:style style:name="T63" style:family="text">
-			<style:text-properties officeooo:rsid="0019131d"/>
+			<style:text-properties fo:color="#008000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T64" style:family="text">
-			<style:text-properties officeooo:rsid="001ad151"/>
+			<style:text-properties fo:color="#008000" fo:font-size="11.5pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="11.5pt" style:font-size-complex="11.5pt"/>
 		</style:style>
 		<style:style style:name="T65" style:family="text">
-			<style:text-properties fo:color="#000000" fo:background-color="#ffffff" loext:char-shading-value="0" style:font-name-asian="monospace"/>
+			<style:text-properties fo:color="#008000" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
 		</style:style>
 		<style:style style:name="T66" style:family="text">
-			<style:text-properties fo:color="#000000" style:font-name="monospace" fo:background-color="#ffffff" loext:char-shading-value="0"/>
+			<style:text-properties fo:color="#7d9029" fo:font-style="normal" fo:font-weight="normal"/>
 		</style:style>
 		<style:style style:name="T67" style:family="text">
-			<style:text-properties style:font-name="monospace"/>
+			<style:text-properties fo:color="#7d9029" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T68" style:family="text">
-			<style:text-properties style:font-name-asian="monospace"/>
+			<style:text-properties fo:color="#7d9029" fo:font-size="11.5pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11.5pt" style:font-size-complex="11.5pt"/>
 		</style:style>
 		<style:style style:name="T69" style:family="text">
-			<style:text-properties officeooo:rsid="001ed46e"/>
+			<style:text-properties fo:color="#7d9029" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
 		</style:style>
 		<style:style style:name="T70" style:family="text">
-			<style:text-properties officeooo:rsid="001f774d"/>
+			<style:text-properties fo:color="#ba2121" fo:font-style="normal" fo:font-weight="normal"/>
 		</style:style>
 		<style:style style:name="T71" style:family="text">
-			<style:text-properties officeooo:rsid="0011bad2"/>
+			<style:text-properties fo:color="#ba2121" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
 		</style:style>
 		<style:style style:name="T72" style:family="text">
+			<style:text-properties fo:color="#ba2121" fo:font-size="11.5pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11.5pt" style:font-size-complex="11.5pt"/>
+		</style:style>
+		<style:style style:name="T73" style:family="text">
+			<style:text-properties fo:color="#ba2121" fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+		</style:style>
+		<style:style style:name="T74" style:family="text">
+			<style:text-properties style:font-style-asian="normal"/>
+		</style:style>
+		<style:style style:name="T75" style:family="text">
+			<style:text-properties style:font-style-asian="normal" style:font-weight-asian="normal"/>
+		</style:style>
+		<style:style style:name="T76" style:family="text">
+			<style:text-properties officeooo:rsid="0019131d"/>
+		</style:style>
+		<style:style style:name="T77" style:family="text">
+			<style:text-properties officeooo:rsid="001ad151"/>
+		</style:style>
+		<style:style style:name="T78" style:family="text">
+			<style:text-properties fo:color="#000000" fo:background-color="#ffffff" loext:char-shading-value="0" style:font-name-asian="monospace"/>
+		</style:style>
+		<style:style style:name="T79" style:family="text">
+			<style:text-properties fo:color="#000000" style:font-name="monospace" fo:background-color="#ffffff" loext:char-shading-value="0"/>
+		</style:style>
+		<style:style style:name="T80" style:family="text">
+			<style:text-properties style:font-name="monospace"/>
+		</style:style>
+		<style:style style:name="T81" style:family="text">
+			<style:text-properties style:font-name-asian="monospace"/>
+		</style:style>
+		<style:style style:name="T82" style:family="text">
+			<style:text-properties officeooo:rsid="001ed46e"/>
+		</style:style>
+		<style:style style:name="T83" style:family="text">
+			<style:text-properties officeooo:rsid="001f774d"/>
+		</style:style>
+		<style:style style:name="T84" style:family="text">
+			<style:text-properties officeooo:rsid="0011bad2"/>
+		</style:style>
+		<style:style style:name="T85" style:family="text">
 			<style:text-properties officeooo:rsid="000963d9"/>
+		</style:style>
+		<style:style style:name="T86" style:family="text">
+			<style:text-properties fo:font-size="11.5pt" style:font-size-asian="11.5pt" style:font-size-complex="11.5pt"/>
+		</style:style>
+		<style:style style:name="T87" style:family="text">
+			<style:text-properties fo:font-size="11.5pt" style:font-size-asian="11.5pt" style:font-style-asian="normal" style:font-size-complex="11.5pt"/>
+		</style:style>
+		<style:style style:name="T88" style:family="text">
+			<style:text-properties fo:font-size="11.5pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11.5pt" style:font-size-complex="11.5pt"/>
+		</style:style>
+		<style:style style:name="T89" style:family="text">
+			<style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+		</style:style>
+		<style:style style:name="T90" style:family="text">
+			<style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-size-complex="11pt"/>
+		</style:style>
+		<style:style style:name="T91" style:family="text">
+			<style:text-properties fo:font-size="11pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
 		</style:style>
 		<style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
 			<style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="page" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -1939,14 +1997,14 @@
 				</draw:frame>
 				<text:span text:style-name="T26">透過網路雲端下載</text:span>
 			</text:h>
-			<text:p text:style-name="P98">直接登入justfont<text:span text:style-name="T72"> </text:span>store頁面後，點選字型檔下載。</text:p>
+			<text:p text:style-name="P98">直接登入justfont<text:span text:style-name="T85"> </text:span>store頁面後，點選字型檔下載。</text:p>
 			<text:p text:style-name="P103">
 				<text:a xlink:type="simple" xlink:href="https://www.justfont.com/index/aboutstore/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://www.justfont.com/index/aboutstore/</text:a>
 			</text:p>
 			<text:h text:style-name="P31" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像16" text:anchor-type="as-char" svg:width="2cm" svg:height="2.42cm" draw:z-index="13"><draw:image xlink:href="./資源/Linux-Pinguino.single-color.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame><text:bookmark-start text:name="__DdeLink__592_568666738"/>Linux安裝字型流程<text:bookmark-end text:name="__DdeLink__592_568666738"/></text:h>
 			<text:list text:style-name="L1">
 				<text:list-item>
-					<text:p text:style-name="P124">下載後的字型檔名為: jf-jinxuan-medium.otf<text:line-break/><text:span text:style-name="T51">※您可以將此檔案安裝於兩台個人電腦中使用</text:span></text:p>
+					<text:p text:style-name="P124">下載後的字型檔名為: jf-jinxuan-medium.otf<text:line-break/><text:span text:style-name="T54">※您可以將此檔案安裝於兩台個人電腦中使用</text:span></text:p>
 				</text:list-item>
 			</text:list>
 			<text:p text:style-name="P67">
@@ -1966,7 +2024,7 @@
 			</text:p>
 			<text:list text:continue-numbering="true" text:style-name="L2">
 				<text:list-item>
-					<text:p text:style-name="P123">若想確認是否有安裝成功，請至：<text:line-break/><text:span text:style-name="T46">※「應用軟體選單」→「附屬工具程式」→「字型檢視程式」</text:span></text:p>
+					<text:p text:style-name="P123">若想確認是否有安裝成功，請至：<text:line-break/><text:span text:style-name="T49">※「應用軟體選單」→「附屬工具程式」→「字型檢視程式」</text:span></text:p>
 				</text:list-item>
 			</text:list>
 			<text:p text:style-name="P69">
@@ -1976,7 +2034,7 @@
 			</text:p>
 			<text:list text:style-name="List_20_1">
 				<text:list-item>
-					<text:p text:style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字"><text:soft-page-break/>您可在<text:span text:style-name="T27">「字型檢視程式」應用軟體</text:span>中，確認字型清單中<text:line-break/>是否有<text:span text:style-name="T28">jf金萱鮮摘(</text:span>jf-jinxuan-fresh<text:span text:style-name="T71">)字型存在</text:span>。</text:p>
+					<text:p text:style-name="_300c__3008_系統_3009_安裝字型流程_300d_說明文字"><text:soft-page-break/>您可在<text:span text:style-name="T27">「字型檢視程式」應用軟體</text:span>中，確認字型清單中<text:line-break/>是否有<text:span text:style-name="T28">jf金萱鮮摘(</text:span>jf-jinxuan-fresh<text:span text:style-name="T84">)字型存在</text:span>。</text:p>
 				</text:list-item>
 			</text:list>
 			<text:p text:style-name="P70">
@@ -1986,287 +2044,703 @@
 			</text:p>
 			<text:h text:style-name="P29" text:outline-level="1">將金萱設定為介面預設字型</text:h>
 			<text:p text:style-name="P24">注意：金萱為標題導向字型而非介面導向字型，本篇指引僅供有此需求者參考</text:p>
-			<text:p text:style-name="P18">目前<text:span text:style-name="T54">Linux系統使用的字型設定機制為Fontconfig，</text:span>您可以依照下列步驟將金萱設定為操作介面預設字型。注意設定方式因作業系統散佈版不同而有所差異，請參考<text:span text:style-name="T54">Fontconfig的散佈版隨附說明文件以及其全域設定檔。這邊以Ubuntu散佈版16.04釋出版本為例：</text:span></text:p>
+			<text:p text:style-name="P18">目前<text:span text:style-name="T57">Linux系統使用的字型設定機制為Fontconfig，</text:span>您可以依照下列步驟將金萱設定為操作介面預設字型。注意設定方式因作業系統散佈版不同而有所差異，請參考<text:span text:style-name="T57">Fontconfig的散佈版隨附說明文件以及其全域設定檔。這邊以Ubuntu散佈版16.04釋出版本為例：</text:span></text:p>
 			<text:list text:style-name="L3">
 				<text:list-item>
 					<text:p text:style-name="P107">
-						<text:span text:style-name="T53">根據 </text:span>
+						<text:span text:style-name="T56">根據 </text:span>
 						<text:span text:style-name="Source_20_Text">
-							<text:span text:style-name="T53">/etc/fonts/conf.d/50-user.conf</text:span>
+							<text:span text:style-name="T56">/etc/fonts/conf.d/50-user.conf</text:span>
 						</text:span>
 						<text:span text:style-name="Source_20_Text"> </text:span>
-						<text:span text:style-name="T55">使用者範圍設定檔，我們應將設定檔放置於</text:span>
+						<text:span text:style-name="T58">使用者範圍設定檔，我們應將設定檔放置於</text:span>
 						<text:span text:style-name="Source_20_Text">
-							<text:span text:style-name="T55">〈家目錄〉/.config/fontconfig/conf.d</text:span>
+							<text:span text:style-name="T58">〈家目錄〉/.config/fontconfig/conf.d</text:span>
 						</text:span>
 						<text:span text:style-name="Source_20_Text"> </text:span>
-						<text:span text:style-name="T55">目錄下</text:span>
+						<text:span text:style-name="T58">目錄下</text:span>
 					</text:p>
 				</text:list-item>
 				<text:list-item>
-					<text:p text:style-name="P108">在該目錄下建立一名為 <text:span text:style-name="Source_20_Text">將金萱設定為介面預設字型.</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T56">conf</text:span></text:span><text:span text:style-name="T56">，寫入下頁內容（「jf 金萱鮮摘」請替換為正確的字型家族名稱，可使用</text:span><text:span text:style-name="Source_20_Text">fc-query 〈字型檔路徑〉 | grep '^[[:space:]]</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T64">family</text:span></text:span><text:span text:style-name="Source_20_Text">:' </text:span><text:span text:style-name="T67">命令查詢）</text:span><text:span text:style-name="T56">：</text:span></text:p>
-					<text:p text:style-name="P120">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</text:p>
+					<text:p text:style-name="P108">在該目錄下建立一名為 <text:span text:style-name="Source_20_Text">將金萱設定為介面預設字型.</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T59">conf</text:span></text:span><text:span text:style-name="T59">，寫入下頁內容（「jf 金萱鮮摘」請替換為正確的字型家族名稱，可使用</text:span><text:span text:style-name="Source_20_Text">fc-query 〈字型檔路徑〉 | grep '^[[:space:]]</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T77">family</text:span></text:span><text:span text:style-name="Source_20_Text">:' </text:span><text:span text:style-name="T80">命令查詢）</text:span><text:span text:style-name="T59">：</text:span></text:p>
+					<text:p text:style-name="P120">
+						<text:span text:style-name="Source_20_Text">
+							<text:span text:style-name="T89">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</text:span>
+						</text:span>
+					</text:p>
 				</text:list-item>
 			</text:list>
-			<text:p text:style-name="P54">&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;</text:p>
-			<text:p text:style-name="P56">&lt;fontconfig&gt;</text:p>
-			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;match</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">target=</text:span>
-				<text:span text:style-name="T61">"pattern"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+			<text:p text:style-name="P54">
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">&lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;</text:span>
+				</text:span>
+			</text:p>
+			<text:p text:style-name="P56">
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">&lt;fontconfig&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">qual=</text:span>
-				<text:span text:style-name="T61">"any"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;match</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">target=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"pattern"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">serif</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">qual=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"any"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">serif</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"lang"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">zh-tw</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"lang"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">zh-tw</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;edit</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">mode=</text:span>
-				<text:span text:style-name="T61">"prepend"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">binding=</text:span>
-				<text:span text:style-name="T61">"strong"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">jf</text:span>
-				<text:span text:style-name="T62">金萱鮮摘</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;edit</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">mode=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"prepend"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">binding=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"strong"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">jf</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T90">金萱鮮摘</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/edit&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;match</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">target=</text:span>
-				<text:span text:style-name="T61">"pattern"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/match&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">qual=</text:span>
-				<text:span text:style-name="T61">"any"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;match</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">target=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"pattern"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">sans-serif</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">qual=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"any"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">sans-serif</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"lang"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">zh-tw</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"lang"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">zh-tw</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;edit</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">mode=</text:span>
-				<text:span text:style-name="T61">"prepend"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">binding=</text:span>
-				<text:span text:style-name="T61">"strong"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">jf</text:span>
-				<text:span text:style-name="T62">金萱鮮摘</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;edit</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">mode=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"prepend"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">binding=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"strong"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">jf</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T90">金萱鮮摘</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/edit&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;match</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">target=</text:span>
-				<text:span text:style-name="T61">"pattern"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/match&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">qual=</text:span>
-				<text:span text:style-name="T61">"any"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;match</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">target=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"pattern"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">monospace</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">qual=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"any"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">monospace</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;test</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"lang"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">zh-tw</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;test</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"lang"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/test&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">zh-tw</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;edit</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">name=</text:span>
-				<text:span text:style-name="T61">"family"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">mode=</text:span>
-				<text:span text:style-name="T61">"prepend"</text:span>
-				<text:span text:style-name="T57"> </text:span>
-				<text:span text:style-name="T60">binding=</text:span>
-				<text:span text:style-name="T61">"strong"</text:span>
-				<text:span text:style-name="T58">&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/test&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">Ubuntu Mono</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;edit</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">name=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"family"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">mode=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"prepend"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91"> </text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T69">binding=</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T73">"strong"</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="12"/>
-				<text:span text:style-name="T58">&lt;string&gt;</text:span>
-				<text:span text:style-name="T57">jf</text:span>
-				<text:span text:style-name="T62">金萱鮮摘</text:span>
-				<text:span text:style-name="T58">&lt;/string&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">Ubuntu Mono</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="8"/>
-				<text:span text:style-name="T58">&lt;/edit&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="12"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;string&gt;</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T91">jf</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T90">金萱鮮摘</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/string&gt;</text:span>
+				</text:span>
 			</text:p>
 			<text:p text:style-name="P58">
-				<text:s text:c="4"/>
-				<text:span text:style-name="T58">&lt;/match&gt;</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="8"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/edit&gt;</text:span>
+				</text:span>
 			</text:p>
-			<text:p text:style-name="P99">&lt;/fontconfig&gt;</text:p>
+			<text:p text:style-name="P58">
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">
+						<text:s text:c="4"/>
+					</text:span>
+				</text:span>
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T65">&lt;/match&gt;</text:span>
+				</text:span>
+			</text:p>
+			<text:p text:style-name="P99">
+				<text:span text:style-name="Source_20_Text">
+					<text:span text:style-name="T89">&lt;/fontconfig&gt;</text:span>
+				</text:span>
+			</text:p>
 			<text:list text:style-name="L4">
 				<text:list-item>
-					<text:p text:style-name="P111">重新啟動 <text:span text:style-name="T63">X 視窗系統作業階段以讓變更生效，如遇到問題於終端機命中移除該檔案再重新啟動 X 視窗系統作業階段即可復原。 </text:span></text:p>
+					<text:p text:style-name="P111">重新啟動 <text:span text:style-name="T76">X 視窗系統作業階段以讓變更生效，如遇到問題於終端機命中移除該檔案再重新啟動 X 視窗系統作業階段即可復原。 </text:span></text:p>
 				</text:list-item>
 			</text:list>
 			<text:h text:style-name="P105" text:outline-level="1">將金萱設定為介面預設字型<text:line-break/>（全系統範圍）</text:h>
 			<text:list text:style-name="L5">
 				<text:list-item>
-					<text:p text:style-name="P109">以<text:span text:style-name="T69">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T69">/usr/local/share/fonts/opentype/justfont</text:span></text:span><text:span text:style-name="T69">目錄下</text:span></text:p>
+					<text:p text:style-name="P109">以<text:span text:style-name="T82">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T82">/usr/local/share/fonts/opentype/justfont</text:span></text:span><text:span text:style-name="T82">目錄下</text:span></text:p>
 				</text:list-item>
 				<text:list-item>
-					<text:p text:style-name="P109">（選用）以<text:span text:style-name="T69">root身份在終端機內執行</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T69">fc-cache --system-only --verbose</text:span></text:span>命令重建 Fontconfig 快取資料</text:p>
+					<text:p text:style-name="P109">（選用）以<text:span text:style-name="T82">root身份在終端機內執行</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T82">fc-cache --system-only --verbose</text:span></text:span>命令重建 Fontconfig 快取資料</text:p>
 				</text:list-item>
 				<text:list-item>
-					<text:p text:style-name="P110">以<text:span text:style-name="T69">root身份編輯 /etc/fonts/conf.d/69-language-selector-zh-tw.conf設定檔，仿照前段落的設定方式將金萱設為serif、sans-serif以及monospace預設字型</text:span></text:p>
+					<text:p text:style-name="P110">以<text:span text:style-name="T82">root身份編輯 /etc/fonts/conf.d/69-language-selector-zh-tw.conf設定檔，仿照前段落的設定方式將金萱設為serif、sans-serif以及monospace預設字型</text:span></text:p>
 				</text:list-item>
 				<text:list-item>
-					<text:p text:style-name="P110">登出<text:span text:style-name="T70">X</text:span>作業階段後重新啟動<text:span text:style-name="T70">X 視窗系統顯示管理員(Display Manager)（或是直接重新開機）以讓設定生效</text:span></text:p>
+					<text:p text:style-name="P110">登出<text:span text:style-name="T83">X</text:span>作業階段後重新啟動<text:span text:style-name="T83">X 視窗系統顯示管理員(Display Manager)（或是直接重新開機）以讓設定生效</text:span></text:p>
 				</text:list-item>
 			</text:list>
 			<text:h text:style-name="P29" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="16"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/></draw:frame>問題排解</text:h>
-			<text:p text:style-name="_300c_問題排解_300d_說明文字">justfont<text:span text:style-name="T43">並不保證</text:span>金萱字型在Linux作業系統的使用<text:line-break/>若遇到安裝錯誤或還有其他使用問題，請<text:span text:style-name="T43">不要</text:span>與他們聯繫！</text:p>
+			<text:p text:style-name="_300c_問題排解_300d_說明文字">justfont<text:span text:style-name="T46">並不保證</text:span>金萱字型在Linux作業系統的使用<text:line-break/>若遇到安裝錯誤或還有其他使用問題，請<text:span text:style-name="T46">不要</text:span>與他們聯繫！</text:p>
 			<text:p text:style-name="Illustration">
 				<draw:frame draw:style-name="fr9" draw:name="影像14" text:anchor-type="as-char" svg:width="6.837cm" svg:height="2.942cm" draw:z-index="9">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-fundraising-compaign-stating-not-support-linux-screenshot.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
@@ -2291,7 +2765,7 @@
 					<text:p text:style-name="P122">Fonts – ArchWiki<text:line-break/><text:a xlink:type="simple" xlink:href="https://wiki.archlinux.org/index.php/Fonts" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">https://wiki.archlinux.org/index.php/Fonts</text:a></text:p>
 				</text:list-item>
 			</text:list>
-			<text:h text:style-name="P29" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T44">justfont</text:span></text:h>
+			<text:h text:style-name="P29" text:outline-level="1">Linux支援以外的字型問題<text:line-break/>請找<text:span text:style-name="T47">justfont</text:span></text:h>
 			<text:p text:style-name="P17">
 				<draw:frame draw:style-name="fr4" draw:name="justfont的標誌" text:anchor-type="as-char" svg:width="6.498cm" svg:height="6.498cm" draw:z-index="14">
 					<draw:image xlink:href="./資源/justfont-proprietary-resources/jf-logo-sns-head.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
