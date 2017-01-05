@@ -2094,7 +2094,7 @@
    <text:h text:style-name="P105" text:outline-level="1">將金萱設定為介面預設字型<text:line-break/>（全系統範圍）</text:h>
    <text:list text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P114">以<text:span text:style-name="T82">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T82">/usr/local/share/fonts/opentype/justfont</text:span></text:span><text:span text:style-name="T82">目錄下</text:span></text:p>
+     <text:p text:style-name="P114">以<text:span text:style-name="T82">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T82">/usr/local/share/fonts/opentype/justfont-jinxuan</text:span></text:span><text:span text:style-name="T82">目錄下</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P114">（選用）以<text:span text:style-name="T82">root身份在終端機內執行</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T82">fc-cache --system-only --verbose</text:span></text:span>命令重建 Fontconfig 快取資料</text:p>
