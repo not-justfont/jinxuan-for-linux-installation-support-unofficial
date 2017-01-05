@@ -46,7 +46,7 @@
   
   <style:style style:name="Standard" style:family="paragraph" style:class="text">
    <style:paragraph-properties style:writing-mode="page"/>
-   <style:text-properties fo:color="#565656" style:font-name="jf金萱鮮摘2.1" fo:font-family="jf金萱鮮摘2.1" style:font-style-name="半糖" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="normal" style:font-name-asian="jf金萱鮮摘2.1" style:font-family-asian="jf金萱鮮摘2.1" style:font-style-name-asian="半糖" style:font-pitch-asian="variable" style:language-asian="zh" style:country-asian="TW" style:font-weight-asian="normal"/>
+   <style:text-properties fo:color="#565656" style:font-name="jf金萱鮮摘2.1" fo:font-family="jf金萱鮮摘2.1" style:font-style-name="半糖" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="normal" style:font-name-asian="jf金萱鮮摘2.1" style:font-family-asian="jf金萱鮮摘2.1" style:font-style-name-asian="半糖" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="TW" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:writing-mode="page"/>
