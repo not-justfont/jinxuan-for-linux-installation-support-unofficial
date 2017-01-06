@@ -1191,9 +1191,11 @@
   <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:text-properties officeooo:paragraph-rsid="001ad151"/>
   </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
    <style:text-properties officeooo:paragraph-rsid="001f774d"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:paragraph-rsid="000fb016"/>
   </style:style>
   <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
    <style:paragraph-properties fo:break-before="page"/>
@@ -2091,13 +2093,13 @@
    <text:h text:style-name="P106" text:outline-level="1">將金萱設定為介面預設字型<text:line-break/>（全系統範圍）</text:h>
    <text:list text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P110">以<text:span text:style-name="T82">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">/usr/local/share/fonts/opentype/justfont-jinxuan</text:span></text:span><text:span text:style-name="T82">目錄下</text:span></text:p>
+     <text:p text:style-name="P111">以<text:span text:style-name="T82">root身份將字型檔安裝到手動建立的 </text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">/usr/local/share<text:line-break/>/fonts/opentype/justfont-jinxuan</text:span></text:span><text:span text:style-name="T82">目錄下</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P111">以<text:span text:style-name="Teletype"><text:span text:style-name="T82">root</text:span></text:span><text:span text:style-name="T82">身份編輯 </text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">/etc/fonts/conf.d/69-language-selector-zh-tw.conf</text:span></text:span><text:span text:style-name="T82">設定檔，仿照前段落的設定方式將金萱設為</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">serif</text:span></text:span><text:span text:style-name="T82">、</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">sans-serif</text:span></text:span><text:span text:style-name="T82">以及</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">monospace</text:span></text:span><text:span text:style-name="T82">預設字型</text:span></text:p>
+     <text:p text:style-name="P110">以<text:span text:style-name="Teletype"><text:span text:style-name="T82">root</text:span></text:span><text:span text:style-name="T82">身份編輯 </text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">/etc/fonts/conf.d/69-language-selector-zh-tw.conf</text:span></text:span><text:span text:style-name="T82">設定檔，仿照前段落的設定方式將金萱設為</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">serif</text:span></text:span><text:span text:style-name="T82">、</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">sans-serif</text:span></text:span><text:span text:style-name="T82">以及</text:span><text:span text:style-name="Teletype"><text:span text:style-name="T82">monospace</text:span></text:span><text:span text:style-name="T82">預設字型</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P111">登出<text:span text:style-name="T83">X</text:span>作業階段後重新啟動<text:span text:style-name="T83">X 視窗系統顯示管理員(Display Manager)（或是直接重新開機）以讓設定生效</text:span></text:p>
+     <text:p text:style-name="P110">登出<text:span text:style-name="T83">X</text:span>作業階段後重新啟動<text:span text:style-name="T83">X 視窗系統顯示管理員(Display Manager)（或是直接重新開機）以讓設定生效</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="P29" text:outline-level="1"><draw:frame draw:style-name="fr8" draw:name="影像13" text:anchor-type="as-char" svg:width="2.667cm" svg:height="2.455cm" draw:z-index="16"><draw:image xlink:href="./資源/justfont-proprietary-resources/jinxuan-installation-tutorial-contact-icon.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
