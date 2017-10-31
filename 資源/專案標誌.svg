@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 210 297"
-   height="297mm"
-   width="210mm">
-  <defs
-     id="defs2" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <g
-       id="g94">
-      <image
-         xlink:href="linux-logo.gif"
-         y="46.83947"
-         x="18.773079"
-         width="172.45384"
-         height="203.32106"
-         preserveAspectRatio="none"
-         id="image74" />
-      <image
-         xlink:href="金萱茶示意圖 - IMG_20161022_202226.trimmed.已去背.png"
-         y="111.78878"
-         x="62.170731"
-         width="65.529144"
-         height="143.99391"
-         preserveAspectRatio="none"
-         id="image88" />
-    </g>
-  </g>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg8" version="1.1" viewBox="0 0 210 297" height="297mm" width="210mm">
+	<defs id="defs2"/>
+	<metadata id="metadata5">
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+				<dc:title/>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g id="layer1">
+		<g id="g94">
+			<image xlink:href="linux-logo.gif" y="46.83947" x="18.773079" width="172.45384" height="203.32106" preserveAspectRatio="none" id="image74"/>
+			<image xlink:href="金萱茶示意圖 - IMG_20161022_202226.trimmed.已去背.png" y="111.78878" x="62.170731" width="65.529144" height="143.99391" preserveAspectRatio="none" id="image88"/>
+		</g>
+	</g>
 </svg>
